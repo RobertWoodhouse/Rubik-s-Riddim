@@ -9,6 +9,7 @@ TagManager:
   - LeftBtn
   - UpBtn
   - DownBtn
+  - Pipe
   layers:
   - Default
   - TransparentFX

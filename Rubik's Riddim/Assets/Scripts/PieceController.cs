@@ -23,54 +23,36 @@ public class PieceController : MonoBehaviour
 	{
 		GameEvents.current.onTouchpadDown += OnPieceMove;
 	}
-
-    // TODO Pass Tag and Piece ID
-    private void OnPieceMove(int id)
+    
+    private void OnPieceMove(int id, string direction)
 	{
 		if (id == _id)
 		{
 			Debug.Log("Piece Moved");
-
+            /*
             GameObject go = this.gameObject;
             float x = go.transform.localPosition.x;
             float y = go.transform.localPosition.y;
             float z = go.transform.localPosition.z;
+            */
 
-            // Move Right
-            go.transform.localPosition = new Vector3(3.2f, y, z);
-
-			// Move Left...
-
-			// Move Up...
-
-			// Move Down...
+            // Piece Directions
+			if (direction == "RightBtn") LeanTween.moveLocalX(gameObject, 5.0f, 1.0f);//go.transform.localPosition = new Vector3(3.2f, y, z);
+			if (direction == "LeftBtn") LeanTween.moveLocalX(gameObject, -5.0f, 1.0f);//go.transform.localPosition = new Vector3(-3.2f, y, z);
+			if (direction == "UpBtn") LeanTween.moveLocalY(gameObject, 5.0f, 1.0f);//go.transform.localPosition = new Vector3(x, 3.2f, z);
+			if (direction == "DownBtn") LeanTween.moveLocalY(gameObject, -5.0f, 1.0f);//go.transform.localPosition = new Vector3(x, -3.2f, z);
 		}
-        
-        //TODO: Add Direction of child transform
-        /*
-        switch (shieldDirection)
-        {
-            case "left":
-                for (float f = 1f; f >= 0; f -= time)
-                {
-                    Debug.Log("Shield child transaitioning in..." + (int)f * 10);
-                    //GameObject.Find(raycastHitName).transform.localPosition = new Vector3(x -= .1f, y, z);
-                    go.transform.localPosition = new Vector3(x -= speed, y, z);
-                    yield return new WaitForSeconds(time);
-                }
-                break;
+	}
+    /*
+	private void OnCollisionEnter2D(Collision2D coll)
+	{
+		Debug.Log("Collision Test");
+		//if (coll.tag.Equals("Pipe")) LeanTween.moveLocal(gameObject, Vector3, 1.0f);
+	}
+    */
 
-            case "right":
-                for (float f = 1f; f >= 0; f -= time)
-                {
-                    Debug.Log("Shield child transaitioning in..." + (int)f * 10);
-                    //GameObject.Find(raycastHitName).transform.localPosition = new Vector3(x += .1f, y, z);
-                    go.transform.localPosition = new Vector3(x += speed, y, z);
-                    yield return new WaitForSeconds(time);
-                }
-                break;
-        }
-        */
-
+	private void OnTriggerEnter2D(Collider2D coll)
+	{
+		Debug.Log("Test Trigger" + coll.gameObject.tag);
 	}
 }

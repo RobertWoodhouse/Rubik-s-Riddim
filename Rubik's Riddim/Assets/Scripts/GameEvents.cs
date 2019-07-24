@@ -10,13 +10,12 @@ public class GameEvents : MonoBehaviour
 		current = this;
 	}
     
-	public event Action<int> onTouchpadDown;
-    public void TouchpadDown(int id)
+	public event Action<int, string> onTouchpadDown;
+    public void TouchpadDown(int id, string direction)
 	{
 		if (onTouchpadDown != null)
 		{
-			Debug.Log("Test " + this.name);
-			onTouchpadDown(id);
+			onTouchpadDown(id, direction);
 		}
 	}
 }
