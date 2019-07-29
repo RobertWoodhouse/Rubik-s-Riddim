@@ -2,15 +2,22 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-public class AudioModel : MonoBehaviour {
+public class AudioModel : MonoBehaviour 
+{
+	[SerializeField]
+	private AudioClip[] _intruments;
 
-	// Use this for initialization
-	void Start () {
-		
+	public AudioClip[] Instruments
+	{
+		get { return _intruments; }
+		set { _intruments = value; }
 	}
-	
-	// Update is called once per frame
-	void Update () {
-		
-	}
+
+	public AudioSource _source;
+
+	public AudioSource Source
+    {
+		get { return _source; }
+		set { _source = value; }
+    }
 }

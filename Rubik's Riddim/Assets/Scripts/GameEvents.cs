@@ -18,4 +18,13 @@ public class GameEvents : MonoBehaviour
 			onTouchpadDown(id, direction);
 		}
 	}
+
+	public event Action<AudioClip, AudioSource> onPlayAudio;
+	public void PlaySound(AudioClip clip, AudioSource source)
+	{
+		if (onPlayAudio != null)
+		{
+			onPlayAudio(clip, source);
+		}
+	}
 }
