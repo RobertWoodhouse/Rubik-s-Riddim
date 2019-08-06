@@ -1,6 +1,4 @@
-﻿using System.Collections;
-using System.Collections.Generic;
-using UnityEngine;
+﻿using UnityEngine;
 
 public class PieceController : MonoBehaviour 
 {
@@ -18,7 +16,10 @@ public class PieceController : MonoBehaviour
 			_id = value;
 		}
 	}
-    
+	//TODO: TEST VARS
+	public  int piecesNum = 0;
+	public  int pieceCounter = 0;
+
 	private string _direction;
 	private GameObject _go;
 	private float _x;
@@ -28,6 +29,9 @@ public class PieceController : MonoBehaviour
 	private void Start() 
 	{
 		GameEvents.current.onTouchpadDown += OnPieceMove;
+		//piecesNum = GameObject.FindGameObjectsWithTag("Piece").Length;
+
+		//Debug.Log("Number of pieces = " + piecesNum);
 	}
     
     private void OnPieceMove(int id, string direction)
@@ -42,10 +46,30 @@ public class PieceController : MonoBehaviour
 			_z = _go.transform.localPosition.z;
             
             // Piece Directions
-			if (direction == "RightBtn") LeanTween.moveLocalX(gameObject, 5.0f, 1.0f);//go.transform.localPosition = new Vector3(3.2f, y, z);
-			if (direction == "LeftBtn") LeanTween.moveLocalX(gameObject, -5.0f, 1.0f);//go.transform.localPosition = new Vector3(-3.2f, y, z);
-			if (direction == "UpBtn") LeanTween.moveLocalY(gameObject, 5.0f, 1.0f);//go.transform.localPosition = new Vector3(x, 3.2f, z);
-			if (direction == "DownBtn") LeanTween.moveLocalY(gameObject, -5.0f, 1.0f);//go.transform.localPosition = new Vector3(x, -3.2f, z);
+			if (direction == "RightBtn") 
+			{
+				LeanTween.moveLocalX(gameObject, 5.0f, 1.0f);
+				_go.GetComponentInParent<PieceModel>().PieceCounter++;
+				//pieceCounter++;
+			}
+			if (direction == "LeftBtn")
+			{
+				LeanTween.moveLocalX(gameObject, -5.0f, 1.0f);
+				_go.GetComponentInParent<PieceModel>().PieceCounter++;
+				//pieceCounter++;
+			}
+			if (direction == "UpBtn")
+			{
+				LeanTween.moveLocalY(gameObject, 5.0f, 1.0f);
+				_go.GetComponentInParent<PieceModel>().PieceCounter++;
+				//pieceCounter++;
+			}
+			if (direction == "DownBtn")
+			{
+				LeanTween.moveLocalY(gameObject, -5.0f, 1.0f);
+				_go.GetComponentInParent<PieceModel>().PieceCounter++;
+				//pieceCounter++;
+			}
 
 			_direction = direction;
 		}

@@ -1,6 +1,4 @@
-﻿using System.Collections;
-using System.Collections.Generic;
-using UnityEngine;
+﻿using UnityEngine;
 
 public class AudioModel : MonoBehaviour 
 {
@@ -12,7 +10,7 @@ public class AudioModel : MonoBehaviour
 		get { return _intruments; }
 		set { _intruments = value; }
 	}
-
+    /*
 	public AudioSource _source;
 
 	public AudioSource Source
@@ -20,4 +18,5 @@ public class AudioModel : MonoBehaviour
 		get { return _source; }
 		set { _source = value; }
     }
+    */
 }

@@ -19,8 +19,9 @@ public class GameEvents : MonoBehaviour
 		}
 	}
 
-	public event Action<AudioClip, AudioSource> onPlayAudio;
-	public void PlaySound(AudioClip clip, AudioSource source)
+    // TODO change back from array if multi track fails
+	public event Action<AudioClip[], AudioSource> onPlayAudio;
+	public void PlaySound(AudioClip[] clip, AudioSource source)
 	{
 		if (onPlayAudio != null)
 		{
