@@ -18,7 +18,7 @@ public class TouchController : MonoBehaviour
 
 			if (hit != false && hit.collider != null)
 			{
-				Debug.Log("Currently touching gameObject: " + hit.collider.name + " | direction: " + hit.collider.tag);
+				//Debug.Log("Currently touching gameObject: " + hit.collider.name + " | direction: " + hit.collider.tag);
 				GameEvents.current.TouchpadDown(hit.collider.GetComponentInParent<PieceController>().Id, hit.collider.tag); // Pass ID from PieceController script
 			}
 		}

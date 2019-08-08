@@ -7,6 +7,20 @@ public class PieceModel : MonoBehaviour
 	public int piecesNum = 0;
     public int pieceCounter = 0;
 
+	public string direction;
+
+    public string Direction
+	{
+		get
+		{
+			return direction;
+		}
+        set
+		{
+			direction = value;
+		}
+	}
+
 	public int PieceCounter
     {
         get

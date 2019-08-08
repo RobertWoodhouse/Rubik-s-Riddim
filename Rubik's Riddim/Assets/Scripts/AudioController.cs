@@ -67,7 +67,7 @@ public class AudioController : MonoBehaviour
 	{
 		for (int i = 0; i < clip.Length; i++)
 		{
-			Debug.Log("Intrument " + i);
+			//Debug.Log("Intrument " + i+1);
 			audioSources[i].loop = true;
             audioSources[i].clip = clip[i];
             audioSources[i].Play();
