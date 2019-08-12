@@ -116,8 +116,8 @@ GameObject:
   - component: {fileID: 50332769122429348}
   m_Layer: 0
   m_Name: Piece3
-  m_TagString: Untagged
-  m_Icon: {fileID: 0}
+  m_TagString: Piece
+  m_Icon: {fileID: 2974397684917235467, guid: 0000000000000000d000000000000000, type: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
@@ -190,7 +190,6 @@ GameObject:
   - component: {fileID: 61743500955817076}
   - component: {fileID: 50733605569044548}
   - component: {fileID: 61848429221180178}
-  - component: {fileID: 114063208080989242}
   m_Layer: 0
   m_Name: Pipe
   m_TagString: Pipe
@@ -248,8 +247,8 @@ GameObject:
   - component: {fileID: 50328200566328500}
   m_Layer: 0
   m_Name: Piece4
-  m_TagString: Untagged
-  m_Icon: {fileID: 0}
+  m_TagString: Piece
+  m_Icon: {fileID: 2974397684917235467, guid: 0000000000000000d000000000000000, type: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
@@ -284,7 +283,6 @@ GameObject:
   - component: {fileID: 61432229402342954}
   - component: {fileID: 50289136434103810}
   - component: {fileID: 61455797205569344}
-  - component: {fileID: 114599413451754220}
   m_Layer: 0
   m_Name: PipeCorner
   m_TagString: Pipe
@@ -304,8 +302,8 @@ GameObject:
   - component: {fileID: 50324286108175612}
   m_Layer: 0
   m_Name: Piece2
-  m_TagString: Untagged
-  m_Icon: {fileID: 0}
+  m_TagString: Piece
+  m_Icon: {fileID: 2974397684917235467, guid: 0000000000000000d000000000000000, type: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
@@ -339,8 +337,8 @@ GameObject:
   - component: {fileID: 50970954043425746}
   m_Layer: 0
   m_Name: Piece1
-  m_TagString: Untagged
-  m_Icon: {fileID: 0}
+  m_TagString: Piece
+  m_Icon: {fileID: 2974397684917235467, guid: 0000000000000000d000000000000000, type: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
@@ -356,10 +354,9 @@ GameObject:
   - component: {fileID: 61257277556336352}
   - component: {fileID: 50937042520596878}
   - component: {fileID: 61838936043712902}
-  - component: {fileID: 114356905713952304}
   m_Layer: 0
   m_Name: PipeEnd
-  m_TagString: Untagged
+  m_TagString: Pipe
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -375,7 +372,6 @@ GameObject:
   - component: {fileID: 212547672894788410}
   - component: {fileID: 61678500468905772}
   - component: {fileID: 50216179553751782}
-  - component: {fileID: 114733915306957414}
   m_Layer: 0
   m_Name: RightButton
   m_TagString: RightBtn
@@ -412,6 +408,7 @@ GameObject:
   - component: {fileID: 4636514136302266}
   - component: {fileID: 212296358098193116}
   - component: {fileID: 114224468465243504}
+  - component: {fileID: 114699592601253008}
   m_Layer: 0
   m_Name: Enemy1
   m_TagString: Rubiks
@@ -431,7 +428,6 @@ GameObject:
   - component: {fileID: 61814933650981416}
   - component: {fileID: 50302693806819892}
   - component: {fileID: 61745026910292030}
-  - component: {fileID: 114775156787611792}
   m_Layer: 0
   m_Name: Pipe
   m_TagString: Pipe
@@ -451,7 +447,6 @@ GameObject:
   - component: {fileID: 61092676826279368}
   - component: {fileID: 50411131412254958}
   - component: {fileID: 61920778648592402}
-  - component: {fileID: 114470424373295850}
   m_Layer: 0
   m_Name: PipeCorner
   m_TagString: Pipe
@@ -490,7 +485,6 @@ GameObject:
   - component: {fileID: 61627710518021474}
   - component: {fileID: 50393523407022296}
   - component: {fileID: 61270441874613386}
-  - component: {fileID: 114960170898768908}
   m_Layer: 0
   m_Name: Pipe
   m_TagString: Pipe
@@ -911,7 +905,7 @@ Rigidbody2D:
   m_Material: {fileID: 0}
   m_Interpolate: 0
   m_SleepingMode: 1
-  m_CollisionDetection: 0
+  m_CollisionDetection: 1
   m_Constraints: 0
 --- !u!50 &50007695336950558
 Rigidbody2D:
@@ -931,7 +925,7 @@ Rigidbody2D:
   m_Material: {fileID: 0}
   m_Interpolate: 0
   m_SleepingMode: 1
-  m_CollisionDetection: 0
+  m_CollisionDetection: 1
   m_Constraints: 0
 --- !u!50 &50155638913822714
 Rigidbody2D:
@@ -951,7 +945,7 @@ Rigidbody2D:
   m_Material: {fileID: 0}
   m_Interpolate: 0
   m_SleepingMode: 1
-  m_CollisionDetection: 0
+  m_CollisionDetection: 1
   m_Constraints: 0
 --- !u!50 &50197054077916444
 Rigidbody2D:
@@ -971,7 +965,7 @@ Rigidbody2D:
   m_Material: {fileID: 0}
   m_Interpolate: 0
   m_SleepingMode: 1
-  m_CollisionDetection: 0
+  m_CollisionDetection: 1
   m_Constraints: 0
 --- !u!50 &50216179553751782
 Rigidbody2D:
@@ -991,7 +985,7 @@ Rigidbody2D:
   m_Material: {fileID: 0}
   m_Interpolate: 0
   m_SleepingMode: 1
-  m_CollisionDetection: 0
+  m_CollisionDetection: 1
   m_Constraints: 0
 --- !u!50 &50289136434103810
 Rigidbody2D:
@@ -1011,7 +1005,7 @@ Rigidbody2D:
   m_Material: {fileID: 0}
   m_Interpolate: 0
   m_SleepingMode: 1
-  m_CollisionDetection: 0
+  m_CollisionDetection: 1
   m_Constraints: 0
 --- !u!50 &50297377387343840
 Rigidbody2D:
@@ -1031,7 +1025,7 @@ Rigidbody2D:
   m_Material: {fileID: 0}
   m_Interpolate: 0
   m_SleepingMode: 1
-  m_CollisionDetection: 0
+  m_CollisionDetection: 1
   m_Constraints: 0
 --- !u!50 &50302693806819892
 Rigidbody2D:
@@ -1051,7 +1045,7 @@ Rigidbody2D:
   m_Material: {fileID: 0}
   m_Interpolate: 0
   m_SleepingMode: 1
-  m_CollisionDetection: 0
+  m_CollisionDetection: 1
   m_Constraints: 0
 --- !u!50 &50324286108175612
 Rigidbody2D:
@@ -1071,7 +1065,7 @@ Rigidbody2D:
   m_Material: {fileID: 0}
   m_Interpolate: 0
   m_SleepingMode: 1
-  m_CollisionDetection: 0
+  m_CollisionDetection: 1
   m_Constraints: 0
 --- !u!50 &50328200566328500
 Rigidbody2D:
@@ -1091,7 +1085,7 @@ Rigidbody2D:
   m_Material: {fileID: 0}
   m_Interpolate: 0
   m_SleepingMode: 1
-  m_CollisionDetection: 0
+  m_CollisionDetection: 1
   m_Constraints: 0
 --- !u!50 &50332769122429348
 Rigidbody2D:
@@ -1111,7 +1105,7 @@ Rigidbody2D:
   m_Material: {fileID: 0}
   m_Interpolate: 0
   m_SleepingMode: 1
-  m_CollisionDetection: 0
+  m_CollisionDetection: 1
   m_Constraints: 0
 --- !u!50 &50373516049947688
 Rigidbody2D:
@@ -1131,7 +1125,7 @@ Rigidbody2D:
   m_Material: {fileID: 0}
   m_Interpolate: 0
   m_SleepingMode: 1
-  m_CollisionDetection: 0
+  m_CollisionDetection: 1
   m_Constraints: 0
 --- !u!50 &50393523407022296
 Rigidbody2D:
@@ -1151,7 +1145,7 @@ Rigidbody2D:
   m_Material: {fileID: 0}
   m_Interpolate: 0
   m_SleepingMode: 1
-  m_CollisionDetection: 0
+  m_CollisionDetection: 1
   m_Constraints: 0
 --- !u!50 &50400447057722910
 Rigidbody2D:
@@ -1171,7 +1165,7 @@ Rigidbody2D:
   m_Material: {fileID: 0}
   m_Interpolate: 0
   m_SleepingMode: 1
-  m_CollisionDetection: 0
+  m_CollisionDetection: 1
   m_Constraints: 0
 --- !u!50 &50409661204668966
 Rigidbody2D:
@@ -1191,7 +1185,7 @@ Rigidbody2D:
   m_Material: {fileID: 0}
   m_Interpolate: 0
   m_SleepingMode: 1
-  m_CollisionDetection: 0
+  m_CollisionDetection: 1
   m_Constraints: 0
 --- !u!50 &50411131412254958
 Rigidbody2D:
@@ -1211,7 +1205,7 @@ Rigidbody2D:
   m_Material: {fileID: 0}
   m_Interpolate: 0
   m_SleepingMode: 1
-  m_CollisionDetection: 0
+  m_CollisionDetection: 1
   m_Constraints: 0
 --- !u!50 &50414371240722614
 Rigidbody2D:
@@ -1231,7 +1225,7 @@ Rigidbody2D:
   m_Material: {fileID: 0}
   m_Interpolate: 0
   m_SleepingMode: 1
-  m_CollisionDetection: 0
+  m_CollisionDetection: 1
   m_Constraints: 0
 --- !u!50 &50663816079376866
 Rigidbody2D:
@@ -1251,7 +1245,7 @@ Rigidbody2D:
   m_Material: {fileID: 0}
   m_Interpolate: 0
   m_SleepingMode: 1
-  m_CollisionDetection: 0
+  m_CollisionDetection: 1
   m_Constraints: 0
 --- !u!50 &50676172154544936
 Rigidbody2D:
@@ -1271,7 +1265,7 @@ Rigidbody2D:
   m_Material: {fileID: 0}
   m_Interpolate: 0
   m_SleepingMode: 1
-  m_CollisionDetection: 0
+  m_CollisionDetection: 1
   m_Constraints: 0
 --- !u!50 &50733605569044548
 Rigidbody2D:
@@ -1291,7 +1285,7 @@ Rigidbody2D:
   m_Material: {fileID: 0}
   m_Interpolate: 0
   m_SleepingMode: 1
-  m_CollisionDetection: 0
+  m_CollisionDetection: 1
   m_Constraints: 0
 --- !u!50 &50737010827199742
 Rigidbody2D:
@@ -1311,7 +1305,7 @@ Rigidbody2D:
   m_Material: {fileID: 0}
   m_Interpolate: 0
   m_SleepingMode: 1
-  m_CollisionDetection: 0
+  m_CollisionDetection: 1
   m_Constraints: 0
 --- !u!50 &50796672752091390
 Rigidbody2D:
@@ -1331,7 +1325,7 @@ Rigidbody2D:
   m_Material: {fileID: 0}
   m_Interpolate: 0
   m_SleepingMode: 1
-  m_CollisionDetection: 0
+  m_CollisionDetection: 1
   m_Constraints: 0
 --- !u!50 &50867085873950144
 Rigidbody2D:
@@ -1351,7 +1345,7 @@ Rigidbody2D:
   m_Material: {fileID: 0}
   m_Interpolate: 0
   m_SleepingMode: 1
-  m_CollisionDetection: 0
+  m_CollisionDetection: 1
   m_Constraints: 0
 --- !u!50 &50936606574317002
 Rigidbody2D:
@@ -1371,7 +1365,7 @@ Rigidbody2D:
   m_Material: {fileID: 0}
   m_Interpolate: 0
   m_SleepingMode: 1
-  m_CollisionDetection: 0
+  m_CollisionDetection: 1
   m_Constraints: 0
 --- !u!50 &50937042520596878
 Rigidbody2D:
@@ -1391,7 +1385,7 @@ Rigidbody2D:
   m_Material: {fileID: 0}
   m_Interpolate: 0
   m_SleepingMode: 1
-  m_CollisionDetection: 0
+  m_CollisionDetection: 1
   m_Constraints: 0
 --- !u!50 &50970954043425746
 Rigidbody2D:
@@ -1411,7 +1405,7 @@ Rigidbody2D:
   m_Material: {fileID: 0}
   m_Interpolate: 0
   m_SleepingMode: 1
-  m_CollisionDetection: 0
+  m_CollisionDetection: 1
   m_Constraints: 0
 --- !u!61 &61020332053981900
 BoxCollider2D:
@@ -2388,18 +2382,6 @@ BoxCollider2D:
   serializedVersion: 2
   m_Size: {x: 0.64, y: 0.64}
   m_EdgeRadius: 0
---- !u!114 &114063208080989242
-MonoBehaviour:
-  m_ObjectHideFlags: 1
-  m_PrefabParentObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 100100000}
-  m_GameObject: {fileID: 1401160867581666}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 42629fa88cd3e4bd9bb59b0d571b5790, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  _id: 0
 --- !u!114 &114200503511581348
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -2436,36 +2418,11 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   _intruments:
-  - {fileID: 8300000, guid: 9c7ff630427634ff39c8989425086ff2, type: 3}
-  - {fileID: 8300000, guid: 486913459e480435687ee33a4ca44332, type: 3}
-  - {fileID: 8300000, guid: a7d710c6d198a4213be5ae8ca3ab7846, type: 3}
-  - {fileID: 8300000, guid: 4d5dc9c7a03194f2aaf5716a8af38f2f, type: 3}
-  - {fileID: 8300000, guid: 8b84fa702a57246bc9417f1fc7aacbb8, type: 3}
-  _source: {fileID: 0}
---- !u!114 &114356905713952304
-MonoBehaviour:
-  m_ObjectHideFlags: 1
-  m_PrefabParentObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 100100000}
-  m_GameObject: {fileID: 1693401856241230}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 42629fa88cd3e4bd9bb59b0d571b5790, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  _id: 0
---- !u!114 &114470424373295850
-MonoBehaviour:
-  m_ObjectHideFlags: 1
-  m_PrefabParentObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 100100000}
-  m_GameObject: {fileID: 1865081359550058}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 42629fa88cd3e4bd9bb59b0d571b5790, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  _id: 0
+  - {fileID: 8300000, guid: 932be3e5de77f425ba19b0e817bd8aba, type: 3}
+  - {fileID: 8300000, guid: 8c48eb8b426ba445b86909ee6db3a505, type: 3}
+  - {fileID: 8300000, guid: cfa41672380f845c480915c330eeced5, type: 3}
+  - {fileID: 8300000, guid: a521b2b0a6c9140828563d70bfde9cd5, type: 3}
+  - {fileID: 8300000, guid: 19ea691444514439cb2c3d2c2da66af7, type: 3}
 --- !u!114 &114560111218686296
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -2478,42 +2435,19 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   _id: 3
---- !u!114 &114599413451754220
+--- !u!114 &114699592601253008
 MonoBehaviour:
   m_ObjectHideFlags: 1
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 100100000}
-  m_GameObject: {fileID: 1634752664249216}
+  m_GameObject: {fileID: 1741637381543056}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 42629fa88cd3e4bd9bb59b0d571b5790, type: 3}
+  m_Script: {fileID: 11500000, guid: 67c30342128fe4fd0aac28fecac03a5b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  _id: 0
---- !u!114 &114733915306957414
-MonoBehaviour:
-  m_ObjectHideFlags: 1
-  m_PrefabParentObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 100100000}
-  m_GameObject: {fileID: 1725781051349444}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 42629fa88cd3e4bd9bb59b0d571b5790, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  _id: 0
---- !u!114 &114775156787611792
-MonoBehaviour:
-  m_ObjectHideFlags: 1
-  m_PrefabParentObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 100100000}
-  m_GameObject: {fileID: 1835757537110032}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 42629fa88cd3e4bd9bb59b0d571b5790, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  _id: 0
+  piecesNum: 0
+  pieceCounter: 0
 --- !u!114 &114897887814930656
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -2526,18 +2460,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   _id: 4
---- !u!114 &114960170898768908
-MonoBehaviour:
-  m_ObjectHideFlags: 1
-  m_PrefabParentObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 100100000}
-  m_GameObject: {fileID: 1950868862581448}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 42629fa88cd3e4bd9bb59b0d571b5790, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  _id: 0
 --- !u!212 &212115102146611762
 SpriteRenderer:
   m_ObjectHideFlags: 1

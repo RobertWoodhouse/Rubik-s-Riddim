@@ -31,6 +31,7 @@ public class PieceController : MonoBehaviour
 	{
 		GameEvents.current.onTouchpadDown += OnPieceMove;
 		_go = this.gameObject;
+		//_hasCollide = false;
 	}
 
 	private void OnPieceMove(int id, string direction)
@@ -113,11 +114,16 @@ public class PieceController : MonoBehaviour
 
 		//Debug.Log("Return pos = " + _goPos);
 
-		//Debug.Log("Object name " + goParent.name + " Has collided? " + _hasCollide);
+		Debug.Log("Object name " + goParent.name + " Has collided? " + _hasCollide);
 	}
-
+    /*
+	public void OnCollisionEnter2D(Collision2D coll)
+	{
+		StartCoroutine(OnPieceReturn(coll.gameObject));
+	}
+    */
 	private void OnTriggerEnter2D(Collider2D coll)
-	{      
+	{
 		StartCoroutine(OnPieceReturn(coll.gameObject));
 	}
 
