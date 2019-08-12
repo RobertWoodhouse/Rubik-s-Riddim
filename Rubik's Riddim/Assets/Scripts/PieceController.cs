@@ -70,7 +70,7 @@ public class PieceController : MonoBehaviour
 		}
 	}
 
-	private IEnumerator OnPieceReturn(GameObject go)
+	public IEnumerator OnPieceReturn(GameObject go)
 	{
         var _direction = GetComponentInParent<PieceModel>().Direction;
         var goParent = FindParentWithTag(go, "Piece");
@@ -115,11 +115,12 @@ public class PieceController : MonoBehaviour
 
 		//Debug.Log("Object name " + goParent.name + " Has collided? " + _hasCollide);
 	}
-
+    /*
 	private void OnTriggerEnter2D(Collider2D coll)
 	{      
 		StartCoroutine(OnPieceReturn(coll.gameObject));
 	}
+	*/
 
 	public static GameObject FindParentWithTag(GameObject childObject, string tag)
     {
