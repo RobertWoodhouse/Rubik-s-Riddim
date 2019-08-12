@@ -6,8 +6,28 @@ public class PieceModel : MonoBehaviour
 {
 	public int piecesNum = 0;
     public int pieceCounter = 0;
+    
+	private string direction;
 
-	public string direction;
+	public int PieceNum
+    {
+        get
+        {
+			return piecesNum;
+        }
+    }
+
+	public int PieceCounter
+    {
+        get
+        {
+            return pieceCounter;
+        }
+        set
+        {
+            pieceCounter = value;
+        }
+    }
 
     public string Direction
 	{
@@ -21,28 +41,11 @@ public class PieceModel : MonoBehaviour
 		}
 	}
 
-	public int PieceCounter
-    {
-        get
-        {
-			return pieceCounter;
-        }
-        set
-        {
-			pieceCounter = value;
-        }
-    }
-
 	// Use this for initialization
 	void Start () 
 	{
 		piecesNum = GameObject.FindGameObjectsWithTag("Piece").Length;
 
         Debug.Log("Number of pieces = " + piecesNum);
-	}
-	
-	// Update is called once per frame
-	void Update () {
-		
 	}
 }

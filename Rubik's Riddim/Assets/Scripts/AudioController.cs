@@ -48,7 +48,7 @@ public class AudioController : MonoBehaviour
         else audioSources[4].mute = false;
     }
     
-	private void IntrumentsSwitch(int min, int max)
+	private void IntrumentsSwitch(int min, int max) // TODO: change from >= to == if switch not functioning
 	{
 		//float percent = (min / max) * 100;
 		//Debug.Log("Percentage for Intrument Switch: " + percent);
@@ -56,10 +56,10 @@ public class AudioController : MonoBehaviour
 		//Debug.Log("Pieces counter " + PieceController.pieceCounter);
 		//Debug.Log("Number of pieces " + PieceController.piecesNum);
 		//if (min <= max) _channel[0] = true;
-		if (min == 1) _channels[0] = true;
-		if (min == 2) _channels[1] = true;
-		if (min == 3) _channels[2] = true;
-		if (min == 4) _channels[3] = true;
+		if (min >= 1) _channels[0] = true;
+		if (min >= 2) _channels[1] = true;
+		if (min >= 3) _channels[2] = true;
+		if (min >= 4) _channels[3] = true;
 		if (min >= 5) _channels[4] = true;
 	}
 

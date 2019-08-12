@@ -153,27 +153,27 @@ Prefab:
         type: 2}
       propertyPath: _intruments.Array.data[0]
       value: 
-      objectReference: {fileID: 8300000, guid: 932be3e5de77f425ba19b0e817bd8aba, type: 3}
+      objectReference: {fileID: 8300000, guid: 109798bc8769940c48b5adda7c8fd38d, type: 3}
     - target: {fileID: 114224468465243504, guid: e6388f245696a4bb588a8ab6c103ade0,
         type: 2}
       propertyPath: _intruments.Array.data[1]
       value: 
-      objectReference: {fileID: 8300000, guid: 8c48eb8b426ba445b86909ee6db3a505, type: 3}
+      objectReference: {fileID: 8300000, guid: dd1192f80539244fdba350fc367740e6, type: 3}
     - target: {fileID: 114224468465243504, guid: e6388f245696a4bb588a8ab6c103ade0,
         type: 2}
       propertyPath: _intruments.Array.data[2]
       value: 
-      objectReference: {fileID: 8300000, guid: cfa41672380f845c480915c330eeced5, type: 3}
+      objectReference: {fileID: 8300000, guid: 322cf36ce16ad4876a2233bd978202c8, type: 3}
     - target: {fileID: 114224468465243504, guid: e6388f245696a4bb588a8ab6c103ade0,
         type: 2}
       propertyPath: _intruments.Array.data[3]
       value: 
-      objectReference: {fileID: 8300000, guid: a521b2b0a6c9140828563d70bfde9cd5, type: 3}
+      objectReference: {fileID: 8300000, guid: f75b18bba7ea549b4a221f235afbe615, type: 3}
     - target: {fileID: 114224468465243504, guid: e6388f245696a4bb588a8ab6c103ade0,
         type: 2}
       propertyPath: _intruments.Array.data[4]
       value: 
-      objectReference: {fileID: 8300000, guid: 19ea691444514439cb2c3d2c2da66af7, type: 3}
+      objectReference: {fileID: 8300000, guid: 125338603cacc4a8c8869cb18d1a0582, type: 3}
     - target: {fileID: 1741637381543056, guid: e6388f245696a4bb588a8ab6c103ade0, type: 2}
       propertyPath: m_Name
       value: Rubik1
@@ -519,6 +519,30 @@ Prefab:
       propertyPath: m_CollisionDetection
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 1683139036709592, guid: e6388f245696a4bb588a8ab6c103ade0, type: 2}
+      propertyPath: m_Icon
+      value: 
+      objectReference: {fileID: 2974397684917235467, guid: 0000000000000000d000000000000000,
+        type: 0}
+    - target: {fileID: 1639364138704026, guid: e6388f245696a4bb588a8ab6c103ade0, type: 2}
+      propertyPath: m_Icon
+      value: 
+      objectReference: {fileID: 2974397684917235467, guid: 0000000000000000d000000000000000,
+        type: 0}
+    - target: {fileID: 1283892895455638, guid: e6388f245696a4bb588a8ab6c103ade0, type: 2}
+      propertyPath: m_Icon
+      value: 
+      objectReference: {fileID: 2974397684917235467, guid: 0000000000000000d000000000000000,
+        type: 0}
+    - target: {fileID: 1596300790088742, guid: e6388f245696a4bb588a8ab6c103ade0, type: 2}
+      propertyPath: m_Icon
+      value: 
+      objectReference: {fileID: 2974397684917235467, guid: 0000000000000000d000000000000000,
+        type: 0}
+    - target: {fileID: 1693401856241230, guid: e6388f245696a4bb588a8ab6c103ade0, type: 2}
+      propertyPath: m_TagString
+      value: Pipe
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: e6388f245696a4bb588a8ab6c103ade0, type: 2}
   m_IsPrefabParent: 0
@@ -669,7 +693,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   piecesNum: 0
   pieceCounter: 0
-  direction: 
 --- !u!1 &2014463565
 GameObject:
   m_ObjectHideFlags: 0
@@ -680,6 +703,7 @@ GameObject:
   - component: {fileID: 2014463566}
   - component: {fileID: 2014463567}
   - component: {fileID: 2014463569}
+  - component: {fileID: 2014463574}
   - component: {fileID: 2014463568}
   - component: {fileID: 2014463573}
   - component: {fileID: 2014463572}
@@ -1128,3 +1152,14 @@ AudioSource:
     m_PreInfinity: 2
     m_PostInfinity: 2
     m_RotationOrder: 0
+--- !u!114 &2014463574
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 2014463565}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bfd97e3afb9884aa29b64ea2aaecd726, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 

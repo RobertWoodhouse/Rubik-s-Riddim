@@ -1,4 +1,6 @@
-﻿using UnityEngine;
+﻿using System.Collections;
+using System.Collections.Generic;
+using UnityEngine;
 
 public class PieceController : MonoBehaviour 
 {
@@ -17,94 +19,119 @@ public class PieceController : MonoBehaviour
 		}
 	}
 	//TODO: TEST VARS
-	public  int piecesNum = 0;
-	public  int pieceCounter = 0;
+	//public  int piecesNum = 0;
+	//public  int pieceCounter = 0;
 
 	//public string _direction;
 	private GameObject _go;
-	public float _x;
-	public float _y;
-	private float _z;
+	public static Vector3 _goPos;
+	public static bool _hasCollide;
 
 	private void Start() 
 	{
 		GameEvents.current.onTouchpadDown += OnPieceMove;
-		//piecesNum = GameObject.FindGameObjectsWithTag("Piece").Length;
-
-		//Debug.Log("Number of pieces = " + piecesNum);
+		_go = this.gameObject;
 	}
-    
-    private void OnPieceMove(int id, string direction)
+
+	private void OnPieceMove(int id, string direction)
 	{
 		if (id == _id)
 		{
 			//Debug.Log("Piece Moved");
 
 			//var _direction = GetComponentInParent<PieceModel>().Direction;
-			_go = this.gameObject;
-			_x = _go.transform.localPosition.x;
-			_y = _go.transform.localPosition.y;
-			_z = _go.transform.localPosition.z;
+			//_go = this.gameObject;
+			_goPos = new Vector3(_go.transform.localPosition.x, _go.transform.localPosition.y, _go.transform.localPosition.z);
+			Debug.Log("This GO original POS = " + _goPos);
             
             // Piece Directions
 			if (direction == "RightBtn") 
 			{
 				LeanTween.moveLocalX(gameObject, 5.0f, 2.0f);
 				_go.GetComponentInParent<PieceModel>().PieceCounter++;
-				//pieceCounter++;
 			}
 			if (direction == "LeftBtn")
 			{
 				LeanTween.moveLocalX(gameObject, -5.0f, 2.0f);
 				_go.GetComponentInParent<PieceModel>().PieceCounter++;
-				//pieceCounter++;
 			}
 			if (direction == "UpBtn")
 			{
 				LeanTween.moveLocalY(gameObject, 5.0f, 2.0f);
 				_go.GetComponentInParent<PieceModel>().PieceCounter++;
-				//pieceCounter++;
 			}
 			if (direction == "DownBtn")
 			{
 				LeanTween.moveLocalY(gameObject, -5.0f, 2.0f);
 				_go.GetComponentInParent<PieceModel>().PieceCounter++;
-				//pieceCounter++;
 			}
 
 			GetComponentInParent<PieceModel>().Direction = direction;
-			//_direction = direction;
 		}
+	}
+
+	private IEnumerator OnPieceReturn(GameObject go)
+	{
+        var _direction = GetComponentInParent<PieceModel>().Direction;
+        var goParent = FindParentWithTag(go, "Piece");
+        //Debug.Log("Object name " + goParent.name);
+
+		if (_hasCollide == false)
+		{
+			LeanTween.cancel(goParent); // Cancels Tween moveLoval 
+			if (_direction == "RightBtn")
+            {
+                LeanTween.moveLocal(goParent, _goPos, 1.0f);
+				_go.GetComponentInParent<PieceModel>().PieceCounter--;
+                Debug.Log("Piece returning to left");
+            }
+            if (_direction == "LeftBtn")
+            {
+                LeanTween.moveLocal(goParent, _goPos, 1.0f);
+				_go.GetComponentInParent<PieceModel>().PieceCounter--;
+                Debug.Log("Piece returning to right");
+            }
+            if (_direction == "UpBtn")
+            {
+                LeanTween.moveLocal(goParent, _goPos, 1.0f);
+				_go.GetComponentInParent<PieceModel>().PieceCounter--;
+                Debug.Log("Piece returning to down");
+            }
+            if (_direction == "DownBtn")
+            {
+                LeanTween.moveLocal(goParent, _goPos, 1.0f);
+				_go.GetComponentInParent<PieceModel>().PieceCounter--;
+                Debug.Log("Piece returning to up");
+            }
+
+			_hasCollide = true;
+		}
+        
+		yield return new WaitForSeconds(0.5f);
+        
+		_hasCollide = false;
+
+		//Debug.Log("Return pos = " + _goPos);
+
+		//Debug.Log("Object name " + goParent.name + " Has collided? " + _hasCollide);
 	}
 
 	private void OnTriggerEnter2D(Collider2D coll)
-	{
-		//Debug.Log("Collission detected trigger " + coll.gameObject.tag + " direction " + _direction);
-		var _direction = GetComponentInParent<PieceModel>().Direction;
-
-		if (_direction == "RightBtn")
-		{
-			//LeanTween.moveLocal(this.gameObject, new Vector3(_x, _y, _z), 1.0f);
-			LeanTween.moveLocalX(coll.gameObject, -5.0f, 2.0f);
-			Debug.Log("Piece returning to left");
-		}
-		if (_direction == "LeftBtn")
-		{
-			//LeanTween.moveLocal(this.gameObject, new Vector3(_x, _y, _z), 1.0f);
-			LeanTween.moveLocalX(coll.gameObject, 5.0f, 2.0f);
-			Debug.Log("Piece returning to right");
-		}
-		if (_direction == "UpBtn")
-		{
-			//LeanTween.moveLocal(this.gameObject, new Vector3(_x, _y, _z), 1.0f);
-			LeanTween.moveLocalY(coll.gameObject, -5.0f, 2.0f);
-			Debug.Log("Piece returning to down");
-		}
-		if (_direction == "DownBtn")
-		{
-			//LeanTween.moveLocal(this.gameObject, new Vector3(_x, _y, _z), 1.0f);
-			LeanTween.moveLocalY(coll.gameObject, 5.0f, 2.0f);
-			Debug.Log("Piece returning to up");
-		}
+	{      
+		StartCoroutine(OnPieceReturn(coll.gameObject));
 	}
+
+	public static GameObject FindParentWithTag(GameObject childObject, string tag)
+    {
+        Transform t = childObject.transform;
+        while (t.parent != null)
+        {
+            if (t.parent.tag == tag)
+            {
+                return t.parent.gameObject;
+            }
+            t = t.parent.transform;
+        }
+        return null; // Could not find a parent with given tag.
+    }
 }
