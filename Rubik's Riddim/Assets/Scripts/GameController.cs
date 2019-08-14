@@ -4,7 +4,6 @@ using UnityEngine;
 
 public class GameController : MonoBehaviour 
 {
-
     public void SolveRubik(int counter, int num)
 	{
 		if (counter >= num)

@@ -11,34 +11,19 @@ public class PieceModel : MonoBehaviour
 
 	public int PieceNum
     {
-        get
-        {
-			return piecesNum;
-        }
+		get { return piecesNum; }
     }
 
 	public int PieceCounter
     {
-        get
-        {
-            return pieceCounter;
-        }
-        set
-        {
-            pieceCounter = value;
-        }
+		get { return pieceCounter; }
+		set { pieceCounter = value; }
     }
 
     public string Direction
 	{
-		get
-		{
-			return direction;
-		}
-        set
-		{
-			direction = value;
-		}
+		get { return direction; }
+		set { direction = value; }
 	}
 
 	// Use this for initialization

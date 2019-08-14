@@ -281,27 +281,27 @@ Prefab:
         type: 2}
       propertyPath: _intruments.Array.data[0]
       value: 
-      objectReference: {fileID: 8300000, guid: 109798bc8769940c48b5adda7c8fd38d, type: 3}
+      objectReference: {fileID: 8300000, guid: 932be3e5de77f425ba19b0e817bd8aba, type: 3}
     - target: {fileID: 114224468465243504, guid: e6388f245696a4bb588a8ab6c103ade0,
         type: 2}
       propertyPath: _intruments.Array.data[1]
       value: 
-      objectReference: {fileID: 8300000, guid: dd1192f80539244fdba350fc367740e6, type: 3}
+      objectReference: {fileID: 8300000, guid: 8c48eb8b426ba445b86909ee6db3a505, type: 3}
     - target: {fileID: 114224468465243504, guid: e6388f245696a4bb588a8ab6c103ade0,
         type: 2}
       propertyPath: _intruments.Array.data[2]
       value: 
-      objectReference: {fileID: 8300000, guid: 322cf36ce16ad4876a2233bd978202c8, type: 3}
+      objectReference: {fileID: 8300000, guid: cfa41672380f845c480915c330eeced5, type: 3}
     - target: {fileID: 114224468465243504, guid: e6388f245696a4bb588a8ab6c103ade0,
         type: 2}
       propertyPath: _intruments.Array.data[3]
       value: 
-      objectReference: {fileID: 8300000, guid: f75b18bba7ea549b4a221f235afbe615, type: 3}
+      objectReference: {fileID: 8300000, guid: a521b2b0a6c9140828563d70bfde9cd5, type: 3}
     - target: {fileID: 114224468465243504, guid: e6388f245696a4bb588a8ab6c103ade0,
         type: 2}
       propertyPath: _intruments.Array.data[4]
       value: 
-      objectReference: {fileID: 8300000, guid: 125338603cacc4a8c8869cb18d1a0582, type: 3}
+      objectReference: {fileID: 8300000, guid: 19ea691444514439cb2c3d2c2da66af7, type: 3}
     - target: {fileID: 1741637381543056, guid: e6388f245696a4bb588a8ab6c103ade0, type: 2}
       propertyPath: m_Name
       value: Rubik1
@@ -678,6 +678,10 @@ Prefab:
     - target: {fileID: 1391025635811400, guid: e6388f245696a4bb588a8ab6c103ade0, type: 2}
       propertyPath: m_TagString
       value: Pipe
+      objectReference: {fileID: 0}
+    - target: {fileID: 1639364138704026, guid: e6388f245696a4bb588a8ab6c103ade0, type: 2}
+      propertyPath: m_IsActive
+      value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents:
     - {fileID: 61252910761288422, guid: e6388f245696a4bb588a8ab6c103ade0, type: 2}
