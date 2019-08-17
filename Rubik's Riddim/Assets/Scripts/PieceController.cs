@@ -14,12 +14,12 @@ public class PieceController : MonoBehaviour
 	}
 
 	private GameObject _go;
-	public static Vector3 _goPos;
-	public static bool _hasCollide;
+	private static Vector3 _goPos;
+	private static bool _hasCollide;
 
 	private void Start() 
 	{
-		GameEvents.current.onTouchpadDown += OnPieceMove;
+		GameEvents.S.onTouchpadDown += OnPieceMove;
 		_go = this.gameObject;
 	}
 

@@ -7,7 +7,7 @@ public class PieceModel : MonoBehaviour
 	public int piecesNum = 0;
     public int pieceCounter = 0;
     
-	private string direction;
+	private string _direction;
 
 	public int PieceNum
     {
@@ -22,8 +22,8 @@ public class PieceModel : MonoBehaviour
 
     public string Direction
 	{
-		get { return direction; }
-		set { direction = value; }
+		get { return _direction; }
+		set { _direction = value; }
 	}
 
 	// Use this for initialization
