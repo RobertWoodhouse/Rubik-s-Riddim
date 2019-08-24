@@ -19,8 +19,9 @@ public class AudioController : MonoBehaviour
 	{
 		audioSources = GetComponents<AudioSource>();
 		GameEvents.S.onPlayAudio += PlayAudioTracks;
-		ThemeTrasition();
+		//ThemeTrasition();
 		goRubik = GameObject.FindGameObjectWithTag("Rubiks");
+		GameEvents.S.PlaySound(goRubik.GetComponent<AudioModel>().Instruments, Source);
 	}
 
 	private void Update()
@@ -73,7 +74,7 @@ public class AudioController : MonoBehaviour
             audioSources[i].Play();
 		}
 	}
-
+    /*
     public void ThemeTrasition()
 	{
 		GameObject go = GameObject.FindGameObjectWithTag("Rubiks");
@@ -81,8 +82,8 @@ public class AudioController : MonoBehaviour
         
 		GameEvents.S.PlaySound(go.GetComponent<AudioModel>().Instruments, Source);
 		Debug.Log("Intruments currently playing = " + go.GetComponent<AudioModel>().Instruments.Length);
-
 	}
+	*/
 }
 
 

@@ -78,24 +78,28 @@ public class PieceController : MonoBehaviour
             {
                 LeanTween.moveLocal(goParent, _goPos, 1.0f);
 				_go.GetComponentInParent<PieceModel>().PieceCounter--;
+				GameModel.Health -= .25f;
                 Debug.Log("Piece returning to left");
             }
 			if (direction == "LeftBtn")
             {
                 LeanTween.moveLocal(goParent, _goPos, 1.0f);
 				_go.GetComponentInParent<PieceModel>().PieceCounter--;
+				GameModel.Health -= .25f;
                 Debug.Log("Piece returning to right");
             }
 			if (direction == "UpBtn")
             {
                 LeanTween.moveLocal(goParent, _goPos, 1.0f);
 				_go.GetComponentInParent<PieceModel>().PieceCounter--;
+				GameModel.Health -= .25f;
                 Debug.Log("Piece returning to down");
             }
 			if (direction == "DownBtn")
             {
                 LeanTween.moveLocal(goParent, _goPos, 1.0f);
 				_go.GetComponentInParent<PieceModel>().PieceCounter--;
+				GameModel.Health -= .25f;
                 Debug.Log("Piece returning to up");
             }
 
