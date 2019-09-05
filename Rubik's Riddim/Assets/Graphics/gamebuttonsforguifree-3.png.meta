@@ -1,0 +1,4351 @@
+fileFormatVersion: 2
+guid: cba6bd44938694f278f880d340579653
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6954079936579365439
+    second: gamebuttonsforguifree-3_0
+  - first:
+      213: 7540958738014594295
+    second: gamebuttonsforguifree-3_1
+  - first:
+      213: 3416688411794005514
+    second: gamebuttonsforguifree-3_2
+  - first:
+      213: 8749820261562352778
+    second: gamebuttonsforguifree-3_3
+  - first:
+      213: -2179998851385093174
+    second: gamebuttonsforguifree-3_4
+  - first:
+      213: 7092171621885651873
+    second: gamebuttonsforguifree-3_5
+  - first:
+      213: 5325301218521123039
+    second: gamebuttonsforguifree-3_6
+  - first:
+      213: 6323823966103835217
+    second: gamebuttonsforguifree-3_7
+  - first:
+      213: -1010209451407874457
+    second: gamebuttonsforguifree-3_8
+  - first:
+      213: 434743004483440654
+    second: gamebuttonsforguifree-3_9
+  - first:
+      213: -1744360108089353119
+    second: gamebuttonsforguifree-3_10
+  - first:
+      213: 723890055954599333
+    second: gamebuttonsforguifree-3_11
+  - first:
+      213: -6120295395001611848
+    second: gamebuttonsforguifree-3_12
+  - first:
+      213: 7706201880531847377
+    second: gamebuttonsforguifree-3_13
+  - first:
+      213: 6749258129188668622
+    second: gamebuttonsforguifree-3_14
+  - first:
+      213: -8450714623213915619
+    second: gamebuttonsforguifree-3_15
+  - first:
+      213: -1615577322931305955
+    second: gamebuttonsforguifree-3_16
+  - first:
+      213: 8454794358078770941
+    second: gamebuttonsforguifree-3_17
+  - first:
+      213: 4654509467582360009
+    second: gamebuttonsforguifree-3_18
+  - first:
+      213: 8400753309064818517
+    second: gamebuttonsforguifree-3_19
+  - first:
+      213: 8168347904103467539
+    second: gamebuttonsforguifree-3_20
+  - first:
+      213: -2628411018835448280
+    second: gamebuttonsforguifree-3_21
+  - first:
+      213: 5889349799659875030
+    second: gamebuttonsforguifree-3_22
+  - first:
+      213: 2239515504503266617
+    second: gamebuttonsforguifree-3_23
+  - first:
+      213: -4845240634132809921
+    second: gamebuttonsforguifree-3_24
+  - first:
+      213: 5045341459865356667
+    second: gamebuttonsforguifree-3_25
+  - first:
+      213: 8335179203733643287
+    second: gamebuttonsforguifree-3_26
+  - first:
+      213: -5130895035697135430
+    second: gamebuttonsforguifree-3_27
+  - first:
+      213: -2283048920126641392
+    second: gamebuttonsforguifree-3_28
+  - first:
+      213: -3859433445793671993
+    second: gamebuttonsforguifree-3_29
+  - first:
+      213: 2936507362803934213
+    second: gamebuttonsforguifree-3_30
+  - first:
+      213: 6570366930946638232
+    second: gamebuttonsforguifree-3_31
+  - first:
+      213: 1151486444809651943
+    second: gamebuttonsforguifree-3_32
+  - first:
+      213: -4507239168025724664
+    second: gamebuttonsforguifree-3_33
+  - first:
+      213: 7541006677056647919
+    second: gamebuttonsforguifree-3_34
+  - first:
+      213: -1850595840135763679
+    second: gamebuttonsforguifree-3_35
+  - first:
+      213: 7341019075646089244
+    second: gamebuttonsforguifree-3_36
+  - first:
+      213: 4688683785099001732
+    second: gamebuttonsforguifree-3_37
+  - first:
+      213: 3881702934031517110
+    second: gamebuttonsforguifree-3_38
+  - first:
+      213: 7872074165037974181
+    second: gamebuttonsforguifree-3_39
+  - first:
+      213: 7724526364760202255
+    second: gamebuttonsforguifree-3_40
+  - first:
+      213: 4925271316844078645
+    second: gamebuttonsforguifree-3_41
+  - first:
+      213: 3694131909077100877
+    second: gamebuttonsforguifree-3_42
+  - first:
+      213: -8934260226382773145
+    second: gamebuttonsforguifree-3_43
+  - first:
+      213: -109021183925123107
+    second: gamebuttonsforguifree-3_44
+  - first:
+      213: 100647441647883209
+    second: gamebuttonsforguifree-3_45
+  - first:
+      213: 111511272371685315
+    second: gamebuttonsforguifree-3_46
+  - first:
+      213: 2298891678000097851
+    second: gamebuttonsforguifree-3_47
+  - first:
+      213: -3663516309170052960
+    second: gamebuttonsforguifree-3_48
+  - first:
+      213: 4103815759693948659
+    second: gamebuttonsforguifree-3_49
+  - first:
+      213: 7822439506201863840
+    second: gamebuttonsforguifree-3_50
+  - first:
+      213: 161100433756704385
+    second: gamebuttonsforguifree-3_51
+  - first:
+      213: 1947451397703420321
+    second: gamebuttonsforguifree-3_52
+  - first:
+      213: 4910524216351573107
+    second: gamebuttonsforguifree-3_53
+  - first:
+      213: 7838153519543010797
+    second: gamebuttonsforguifree-3_54
+  - first:
+      213: -5775927661236649079
+    second: gamebuttonsforguifree-3_55
+  - first:
+      213: -6281171911006992517
+    second: gamebuttonsforguifree-3_56
+  - first:
+      213: 765027627085743197
+    second: gamebuttonsforguifree-3_57
+  - first:
+      213: 544755951267881924
+    second: gamebuttonsforguifree-3_58
+  - first:
+      213: -8504963939119900367
+    second: gamebuttonsforguifree-3_59
+  - first:
+      213: 6135739618398472201
+    second: gamebuttonsforguifree-3_60
+  - first:
+      213: -8427834179296688667
+    second: gamebuttonsforguifree-3_61
+  - first:
+      213: -3090103917125471397
+    second: gamebuttonsforguifree-3_62
+  - first:
+      213: 211394582161547992
+    second: gamebuttonsforguifree-3_63
+  - first:
+      213: 1900461807892400891
+    second: gamebuttonsforguifree-3_64
+  - first:
+      213: 8045430800331608184
+    second: gamebuttonsforguifree-3_65
+  - first:
+      213: 5787709880818201818
+    second: gamebuttonsforguifree-3_66
+  - first:
+      213: -2845996480827918089
+    second: gamebuttonsforguifree-3_67
+  - first:
+      213: -7454637719934827206
+    second: gamebuttonsforguifree-3_68
+  - first:
+      213: -3818317067483854410
+    second: gamebuttonsforguifree-3_69
+  - first:
+      213: -5443678477713410653
+    second: gamebuttonsforguifree-3_70
+  - first:
+      213: -3814735411212261006
+    second: gamebuttonsforguifree-3_71
+  - first:
+      213: -3944824590792181807
+    second: gamebuttonsforguifree-3_72
+  - first:
+      213: 1368052674744601415
+    second: gamebuttonsforguifree-3_73
+  - first:
+      213: 6250030440377095869
+    second: gamebuttonsforguifree-3_74
+  - first:
+      213: 5097746401395384293
+    second: gamebuttonsforguifree-3_75
+  - first:
+      213: 7413572960444998433
+    second: gamebuttonsforguifree-3_76
+  - first:
+      213: -1691214216093108709
+    second: gamebuttonsforguifree-3_77
+  - first:
+      213: -1760367181483981997
+    second: gamebuttonsforguifree-3_78
+  - first:
+      213: 7173228916048283316
+    second: gamebuttonsforguifree-3_79
+  - first:
+      213: 4388017661603580625
+    second: gamebuttonsforguifree-3_80
+  - first:
+      213: 2747145734476097421
+    second: gamebuttonsforguifree-3_81
+  - first:
+      213: -2146790627280375088
+    second: gamebuttonsforguifree-3_82
+  - first:
+      213: 1117447698102452800
+    second: gamebuttonsforguifree-3_83
+  - first:
+      213: -6104324868277450998
+    second: gamebuttonsforguifree-3_84
+  - first:
+      213: 3683438361442758240
+    second: gamebuttonsforguifree-3_85
+  - first:
+      213: 2644429277710977532
+    second: gamebuttonsforguifree-3_86
+  - first:
+      213: -2275261939422265791
+    second: gamebuttonsforguifree-3_87
+  - first:
+      213: 1986986193332832909
+    second: gamebuttonsforguifree-3_88
+  - first:
+      213: -4981693731917472990
+    second: gamebuttonsforguifree-3_89
+  - first:
+      213: -5068423575936444683
+    second: gamebuttonsforguifree-3_90
+  - first:
+      213: 6040698644846080912
+    second: gamebuttonsforguifree-3_91
+  - first:
+      213: 6952769565922346369
+    second: gamebuttonsforguifree-3_92
+  - first:
+      213: 4235071103565642912
+    second: gamebuttonsforguifree-3_93
+  - first:
+      213: -2509746956554498402
+    second: gamebuttonsforguifree-3_94
+  - first:
+      213: 8047301479042901204
+    second: gamebuttonsforguifree-3_95
+  - first:
+      213: 2968204339949736772
+    second: gamebuttonsforguifree-3_96
+  - first:
+      213: 9121924568743364180
+    second: gamebuttonsforguifree-3_97
+  - first:
+      213: 3438848360471436414
+    second: gamebuttonsforguifree-3_98
+  - first:
+      213: -3822368919184882673
+    second: gamebuttonsforguifree-3_99
+  - first:
+      213: -4952039297399939655
+    second: gamebuttonsforguifree-3_100
+  - first:
+      213: 6456801317586459831
+    second: gamebuttonsforguifree-3_101
+  - first:
+      213: -4077907208372467373
+    second: gamebuttonsforguifree-3_102
+  - first:
+      213: 7390044054782087646
+    second: gamebuttonsforguifree-3_103
+  - first:
+      213: -4390691576043750810
+    second: gamebuttonsforguifree-3_104
+  - first:
+      213: -2768357183518899859
+    second: gamebuttonsforguifree-3_105
+  - first:
+      213: -5743539542569893755
+    second: gamebuttonsforguifree-3_106
+  - first:
+      213: -3356069151386062826
+    second: gamebuttonsforguifree-3_107
+  - first:
+      213: -7441953619654142741
+    second: gamebuttonsforguifree-3_108
+  - first:
+      213: -1034972460255433380
+    second: gamebuttonsforguifree-3_109
+  - first:
+      213: -6467205773683275723
+    second: gamebuttonsforguifree-3_110
+  - first:
+      213: -755561728094530979
+    second: gamebuttonsforguifree-3_111
+  - first:
+      213: -2293314485435566524
+    second: gamebuttonsforguifree-3_112
+  - first:
+      213: 5305175424486255979
+    second: gamebuttonsforguifree-3_113
+  - first:
+      213: -2624457703783470666
+    second: gamebuttonsforguifree-3_114
+  - first:
+      213: 4913094647007819923
+    second: gamebuttonsforguifree-3_115
+  - first:
+      213: 7462641590696579519
+    second: gamebuttonsforguifree-3_116
+  - first:
+      213: -4243650416734552826
+    second: gamebuttonsforguifree-3_117
+  - first:
+      213: -1074192720650017448
+    second: gamebuttonsforguifree-3_118
+  - first:
+      213: -1588992167512019586
+    second: gamebuttonsforguifree-3_119
+  - first:
+      213: 2173745028059042997
+    second: gamebuttonsforguifree-3_120
+  - first:
+      213: -3797669309236561339
+    second: gamebuttonsforguifree-3_121
+  - first:
+      213: 6779553615804751533
+    second: gamebuttonsforguifree-3_122
+  - first:
+      213: -8815323974975429675
+    second: gamebuttonsforguifree-3_123
+  - first:
+      213: -448003676716274184
+    second: gamebuttonsforguifree-3_124
+  - first:
+      213: -9077572284202239027
+    second: gamebuttonsforguifree-3_125
+  - first:
+      213: 4467559263674843852
+    second: gamebuttonsforguifree-3_126
+  - first:
+      213: 3039784869725678610
+    second: gamebuttonsforguifree-3_127
+  - first:
+      213: -3718590917095734107
+    second: gamebuttonsforguifree-3_128
+  - first:
+      213: 8314423639121086919
+    second: gamebuttonsforguifree-3_129
+  - first:
+      213: -1092679583555181869
+    second: gamebuttonsforguifree-3_130
+  - first:
+      213: 8720917950150187447
+    second: gamebuttonsforguifree-3_131
+  - first:
+      213: -5825457827374947821
+    second: gamebuttonsforguifree-3_132
+  - first:
+      213: -893343549002551697
+    second: gamebuttonsforguifree-3_133
+  - first:
+      213: -3378619521725733842
+    second: gamebuttonsforguifree-3_134
+  - first:
+      213: 7151762514037327998
+    second: gamebuttonsforguifree-3_135
+  - first:
+      213: -1975137388638717374
+    second: gamebuttonsforguifree-3_136
+  - first:
+      213: 4587095441420552705
+    second: gamebuttonsforguifree-3_137
+  - first:
+      213: -8716747834075865103
+    second: gamebuttonsforguifree-3_138
+  - first:
+      213: 820760280237891805
+    second: gamebuttonsforguifree-3_139
+  - first:
+      213: -1504947937920269875
+    second: gamebuttonsforguifree-3_140
+  - first:
+      213: -1723649093491274408
+    second: gamebuttonsforguifree-3_141
+  - first:
+      213: -6748438509421857159
+    second: gamebuttonsforguifree-3_142
+  - first:
+      213: 3894968481043854056
+    second: gamebuttonsforguifree-3_143
+  - first:
+      213: -6944427781802755672
+    second: gamebuttonsforguifree-3_144
+  - first:
+      213: -3350259634937354418
+    second: gamebuttonsforguifree-3_145
+  - first:
+      213: -5181418462634429160
+    second: gamebuttonsforguifree-3_146
+  - first:
+      213: 2875919326105660432
+    second: gamebuttonsforguifree-3_147
+  - first:
+      213: -3904438977601661991
+    second: gamebuttonsforguifree-3_148
+  - first:
+      213: 5200467029689200666
+    second: gamebuttonsforguifree-3_149
+  - first:
+      213: -2384918177069112233
+    second: gamebuttonsforguifree-3_150
+  - first:
+      213: -218774757100821765
+    second: gamebuttonsforguifree-3_151
+  - first:
+      213: 2493013134484741701
+    second: gamebuttonsforguifree-3_152
+  - first:
+      213: -2443820333442525441
+    second: gamebuttonsforguifree-3_153
+  - first:
+      213: 8863559730794108276
+    second: gamebuttonsforguifree-3_154
+  - first:
+      213: -5906009300003587565
+    second: gamebuttonsforguifree-3_155
+  - first:
+      213: -8000180872546623543
+    second: gamebuttonsforguifree-3_156
+  - first:
+      213: -1428001913882031196
+    second: gamebuttonsforguifree-3_157
+  - first:
+      213: 6547833264538816072
+    second: gamebuttonsforguifree-3_158
+  - first:
+      213: 453790809432205073
+    second: gamebuttonsforguifree-3_159
+  - first:
+      213: 879030509173096339
+    second: gamebuttonsforguifree-3_160
+  - first:
+      213: 5444734216919870821
+    second: gamebuttonsforguifree-3_161
+  - first:
+      213: -4023183888299951221
+    second: gamebuttonsforguifree-3_162
+  - first:
+      213: -4976819395293867096
+    second: gamebuttonsforguifree-3_163
+  - first:
+      213: 1890001845405173201
+    second: gamebuttonsforguifree-3_164
+  - first:
+      213: 6608321420078999055
+    second: gamebuttonsforguifree-3_165
+  - first:
+      213: -6671721511375026828
+    second: gamebuttonsforguifree-3_166
+  - first:
+      213: 4775038082128848277
+    second: gamebuttonsforguifree-3_167
+  - first:
+      213: 8970710537044475936
+    second: gamebuttonsforguifree-3_168
+  - first:
+      213: -1383958434760959599
+    second: gamebuttonsforguifree-3_169
+  - first:
+      213: 2366465724532761776
+    second: gamebuttonsforguifree-3_170
+  - first:
+      213: -8407924071102515146
+    second: gamebuttonsforguifree-3_171
+  - first:
+      213: -945445916172845315
+    second: gamebuttonsforguifree-3_172
+  - first:
+      213: -7449358801991706541
+    second: gamebuttonsforguifree-3_173
+  - first:
+      213: 1014503963446300262
+    second: gamebuttonsforguifree-3_174
+  - first:
+      213: -2985224338249092478
+    second: gamebuttonsforguifree-3_175
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: gamebuttonsforguifree-3_0
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 4975
+        width: 777
+        height: 313
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46e78538e87de419cbcd13a78a758dbc
+      internalID: 6954079936579365439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gamebuttonsforguifree-3_1
+      rect:
+        serializedVersion: 2
+        x: 1299
+        y: 4975
+        width: 777
+        height: 313
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e35370c1fa9e477ca3c35cd84ef6e3e
+      internalID: 7540958738014594295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gamebuttonsforguifree-3_2
+      rect:
+        serializedVersion: 2
+        x: 2225
+        y: 4975
+        width: 777
+        height: 313
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b92f47c288f540849a0c8667a19035b
+      internalID: 3416688411794005514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gamebuttonsforguifree-3_3
+      rect:
+        serializedVersion: 2
+        x: 3150
+        y: 4975
+        width: 777
+        height: 313
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c0d91b9477b64cbb95c8b0587b31167
+      internalID: 8749820261562352778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gamebuttonsforguifree-3_4
+      rect:
+        serializedVersion: 2
+        x: 4072
+        y: 4975
+        width: 778
+        height: 313
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34124ecc3c9ed4a9caf3dad78354bb2f
+      internalID: -2179998851385093174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gamebuttonsforguifree-3_5
+      rect:
+        serializedVersion: 2
+        x: 4998
+        y: 4975
+        width: 777
+        height: 313
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51b40826eb59d4caea369885484778ee
+      internalID: 7092171621885651873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gamebuttonsforguifree-3_6
+      rect:
+        serializedVersion: 2
+        x: 5922
+        y: 4975
+        width: 775
+        height: 313
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ffc288c4311f496b992db9fa540c5c8
+      internalID: 5325301218521123039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gamebuttonsforguifree-3_7
+      rect:
+        serializedVersion: 2
+        x: 6846
+        y: 4975
+        width: 777
+        height: 313
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e091df3f9c7e0468f888f617c6e28afd
+      internalID: 6323823966103835217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gamebuttonsforguifree-3_8
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 4549
+        width: 777
+        height: 316
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 320ecc36a23f4496bb3a425df1d681c9
+      internalID: -1010209451407874457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gamebuttonsforguifree-3_9
+      rect:
+        serializedVersion: 2
+        x: 1299
+        y: 4549
+        width: 777
+        height: 316
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49073d121425443f7ac8e8efc90eed6e
+      internalID: 434743004483440654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gamebuttonsforguifree-3_10
+      rect:
+        serializedVersion: 2
+        x: 2225
+        y: 4549
+        width: 777
+        height: 316
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fe190d31912c4ea492d202356193619
+      internalID: -1744360108089353119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gamebuttonsforguifree-3_11
+      rect:
+        serializedVersion: 2
+        x: 3150
+        y: 4549
+        width: 777
+        height: 316
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e0c0f1686dfb41d198f49cfc89fb0b5
+      internalID: 723890055954599333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gamebuttonsforguifree-3_12
+      rect:
+        serializedVersion: 2
+        x: 4072
+        y: 4549
+        width: 778
+        height: 316
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97693fb022b1f4dd9932cb5d8fefb6a2
+      internalID: -6120295395001611848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gamebuttonsforguifree-3_13
+      rect:
+        serializedVersion: 2
+        x: 4998
+        y: 4549
+        width: 777
+        height: 316
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a34531193a86417b8d1295263457255
+      internalID: 7706201880531847377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gamebuttonsforguifree-3_14
+      rect:
+        serializedVersion: 2
+        x: 5922
+        y: 4549
+        width: 775
+        height: 316
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba605b04a75f944a39792276a236dd35
+      internalID: 6749258129188668622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gamebuttonsforguifree-3_15
+      rect:
+        serializedVersion: 2
+        x: 6846
+        y: 4549
+        width: 777
+        height: 316
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b7d03e41a3564fffa36b6d8ef13441f
+      internalID: -8450714623213915619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gamebuttonsforguifree-3_16
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 4124
+        width: 777
+        height: 316
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7b77d967b66a44b8a75128d9dffacde
+      internalID: -1615577322931305955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gamebuttonsforguifree-3_17
+      rect:
+        serializedVersion: 2
+        x: 1299
+        y: 4124
+        width: 777
+        height: 316
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f739f1f5bda741e79d14c760fdfaa6f
+      internalID: 8454794358078770941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gamebuttonsforguifree-3_18
+      rect:
+        serializedVersion: 2
+        x: 2225
+        y: 4124
+        width: 777
+        height: 316
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bff584bbb38664dba8d4d2a690304307
+      internalID: 4654509467582360009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gamebuttonsforguifree-3_19
+      rect:
+        serializedVersion: 2
+        x: 3150
+        y: 4124
+        width: 777
+        height: 316
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a948a55e380d44a5b8e80f0bb0914dfd
+      internalID: 8400753309064818517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gamebuttonsforguifree-3_20
+      rect:
+        serializedVersion: 2
+        x: 4072
+        y: 4124
+        width: 778
+        height: 316
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae63ee2e0ad6a4aebba8000047ea0dc9
+      internalID: 8168347904103467539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gamebuttonsforguifree-3_21
+      rect:
+        serializedVersion: 2
+        x: 4998
+        y: 4124
+        width: 777
+        height: 316
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 436ab98d512a64706b803ed84ea949b0
+      internalID: -2628411018835448280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gamebuttonsforguifree-3_22
+      rect:
+        serializedVersion: 2
+        x: 5922
+        y: 4124
+        width: 775
+        height: 316
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38929061000fb495bbf7d95a8b0a6355
+      internalID: 5889349799659875030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gamebuttonsforguifree-3_23
+      rect:
+        serializedVersion: 2
+        x: 6846
+        y: 4124
+        width: 777
+        height: 316
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23effab95429b43508a4e8bc741474aa
+      internalID: 2239515504503266617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gamebuttonsforguifree-3_24
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 3698
+        width: 777
+        height: 316
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e9a5460ae0f94ce889dc227a2e7942a
+      internalID: -4845240634132809921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gamebuttonsforguifree-3_25
+      rect:
+        serializedVersion: 2
+        x: 1299
+        y: 3698
+        width: 777
+        height: 316
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b661ae47b4149455e8a2899a0b1d319f
+      internalID: 5045341459865356667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gamebuttonsforguifree-3_26
+      rect:
+        serializedVersion: 2
+        x: 2225
+        y: 3698
+        width: 777
+        height: 316
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a654c4f13662747488e5cd089ad39b8d
+      internalID: 8335179203733643287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gamebuttonsforguifree-3_27
+      rect:
+        serializedVersion: 2
+        x: 3150
+        y: 3698
+        width: 777
+        height: 316
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66a0361c4682c4ab5bc4274e3f4b5bb2
+      internalID: -5130895035697135430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gamebuttonsforguifree-3_28
+      rect:
+        serializedVersion: 2
+        x: 4072
+        y: 3698
+        width: 778
+        height: 316
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cee099651ee3443f97088c75c667dfc
+      internalID: -2283048920126641392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gamebuttonsforguifree-3_29
+      rect:
+        serializedVersion: 2
+        x: 4998
+        y: 3698
+        width: 777
+        height: 316
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a5ecfc4f667f4ebdbcfa2e55d3fed64
+      internalID: -3859433445793671993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gamebuttonsforguifree-3_30
+      rect:
+        serializedVersion: 2
+        x: 5922
+        y: 3698
+        width: 775
+        height: 316
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6898d13ddf4c14564a967652c5d38090
+      internalID: 2936507362803934213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gamebuttonsforguifree-3_31
+      rect:
+        serializedVersion: 2
+        x: 6846
+        y: 3698
+        width: 777
+        height: 316
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2138aacc3d44f4a059ab8aa258d46277
+      internalID: 6570366930946638232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gamebuttonsforguifree-3_32
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 3198
+        width: 324
+        height: 324
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb3b01cb68f9b4ef6b848a520370ad23
+      internalID: 1151486444809651943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gamebuttonsforguifree-3_33
+      rect:
+        serializedVersion: 2
+        x: 783
+        y: 3198
+        width: 324
+        height: 324
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c29ccea7f4b645adb0a584a48cf09dd
+      internalID: -4507239168025724664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gamebuttonsforguifree-3_34
+      rect:
+        serializedVersion: 2
+        x: 1189
+        y: 3198
+        width: 325
+        height: 324
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7cc5955e6337497c9bb4637c0eba035
+      internalID: 7541006677056647919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gamebuttonsforguifree-3_35
+      rect:
+        serializedVersion: 2
+        x: 1596
+        y: 3198
+        width: 324
+        height: 324
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6621408313f3a47d79c9bccc774078ae
+      internalID: -1850595840135763679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gamebuttonsforguifree-3_36
+      rect:
+        serializedVersion: 2
+        x: 2002
+        y: 3198
+        width: 324
+        height: 324
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c44a268e0ce58476394b7f891502e8f4
+      internalID: 7341019075646089244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gamebuttonsforguifree-3_37
+      rect:
+        serializedVersion: 2
+        x: 2408
+        y: 3198
+        width: 324
+        height: 324
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 840b48692f61349d7aab73026d103215
+      internalID: 4688683785099001732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gamebuttonsforguifree-3_38
+      rect:
+        serializedVersion: 2
+        x: 2814
+        y: 3198
+        width: 325
+        height: 324
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6dad6c2bd5f7d403092c6bdf99c46faa
+      internalID: 3881702934031517110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gamebuttonsforguifree-3_39
+      rect:
+        serializedVersion: 2
+        x: 3221
+        y: 3198
+        width: 324
+        height: 324
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7368f2643f504febb3fb8b44941158e
+      internalID: 7872074165037974181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gamebuttonsforguifree-3_40
+      rect:
+        serializedVersion: 2
+        x: 3627
+        y: 3198
+        width: 324
+        height: 324
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aba62355597d54c4091c95df29a7718e
+      internalID: 7724526364760202255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gamebuttonsforguifree-3_41
+      rect:
+        serializedVersion: 2
+        x: 4049
+        y: 3198
+        width: 324
+        height: 324
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1319e651dc76b4ecabfd77c2bd25e8e6
+      internalID: 4925271316844078645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gamebuttonsforguifree-3_42
+      rect:
+        serializedVersion: 2
+        x: 4455
+        y: 3198
+        width: 324
+        height: 324
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5229321de4bad45b8a3757395ac8da29
+      internalID: 3694131909077100877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gamebuttonsforguifree-3_43
+      rect:
+        serializedVersion: 2
+        x: 4861
+        y: 3198
+        width: 324
+        height: 324
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93a048a7e32dd4bd0a63ec4f401104ae
+      internalID: -8934260226382773145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gamebuttonsforguifree-3_44
+      rect:
+        serializedVersion: 2
+        x: 5268
+        y: 3198
+        width: 324
+        height: 324
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06008a685d80e468cb2b2a37631db301
+      internalID: -109021183925123107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gamebuttonsforguifree-3_45
+      rect:
+        serializedVersion: 2
+        x: 5674
+        y: 3198
+        width: 324
+        height: 324
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38e9e9c780d3548d0b4ab68d11035f5e
+      internalID: 100647441647883209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gamebuttonsforguifree-3_46
+      rect:
+        serializedVersion: 2
+        x: 6080
+        y: 3198
+        width: 324
+        height: 324
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d37b11eb2c8f4cce9712a2fe79cc11e
+      internalID: 111511272371685315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gamebuttonsforguifree-3_47
+      rect:
+        serializedVersion: 2
+        x: 6486
+        y: 3198
+        width: 324
+        height: 324
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41f8aab4af04f4ddd89f07e485bfc84d
+      internalID: 2298891678000097851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gamebuttonsforguifree-3_48
+      rect:
+        serializedVersion: 2
+        x: 6893
+        y: 3198
+        width: 324
+        height: 324
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adc9a12949f4143eb8dc4a8b75a0873b
+      internalID: -3663516309170052960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gamebuttonsforguifree-3_49
+      rect:
+        serializedVersion: 2
+        x: 7299
+        y: 3198
+        width: 324
+        height: 324
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68841d7f4e06a44ccafb7bdaebff6ac8
+      internalID: 4103815759693948659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gamebuttonsforguifree-3_50
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 2795
+        width: 324
+        height: 324
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a8c453d3b2a64b2aa2bfd6e2f9c120a
+      internalID: 7822439506201863840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gamebuttonsforguifree-3_51
+      rect:
+        serializedVersion: 2
+        x: 783
+        y: 2795
+        width: 324
+        height: 324
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e99e237bcd2b478f9b3fc6f74e8f054
+      internalID: 161100433756704385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gamebuttonsforguifree-3_52
+      rect:
+        serializedVersion: 2
+        x: 1189
+        y: 2795
+        width: 325
+        height: 324
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dce0cc6810469453f91d3960f7ace9e0
+      internalID: 1947451397703420321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gamebuttonsforguifree-3_53
+      rect:
+        serializedVersion: 2
+        x: 1596
+        y: 2795
+        width: 324
+        height: 324
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e067965e6f61448e08856d1893240699
+      internalID: 4910524216351573107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gamebuttonsforguifree-3_54
+      rect:
+        serializedVersion: 2
+        x: 2002
+        y: 2795
+        width: 324
+        height: 324
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e38a5130e05a64719add6a6016be62da
+      internalID: 7838153519543010797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gamebuttonsforguifree-3_55
+      rect:
+        serializedVersion: 2
+        x: 2408
+        y: 2795
+        width: 324
+        height: 324
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f721707eb96be47cc89a0081b49e2229
+      internalID: -5775927661236649079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gamebuttonsforguifree-3_56
+      rect:
+        serializedVersion: 2
+        x: 2814
+        y: 2795
+        width: 325
+        height: 324
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9f0e4a009af348dda8d24811e83703e
+      internalID: -6281171911006992517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gamebuttonsforguifree-3_57
+      rect:
+        serializedVersion: 2
+        x: 3221
+        y: 2795
+        width: 324
+        height: 324
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2fe24eba922a45d1a8baa6f32d3ef6d
+      internalID: 765027627085743197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gamebuttonsforguifree-3_58
+      rect:
+        serializedVersion: 2
+        x: 3627
+        y: 2795
+        width: 324
+        height: 324
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5599c1f96bf24c438634610c51b5d66
+      internalID: 544755951267881924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gamebuttonsforguifree-3_59
+      rect:
+        serializedVersion: 2
+        x: 4049
+        y: 2795
+        width: 324
+        height: 324
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6dd01fd9c33d44a2905abfdd3467d72
+      internalID: -8504963939119900367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gamebuttonsforguifree-3_60
+      rect:
+        serializedVersion: 2
+        x: 4455
+        y: 2795
+        width: 324
+        height: 324
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bda5725f4febb482f92272297e46039f
+      internalID: 6135739618398472201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gamebuttonsforguifree-3_61
+      rect:
+        serializedVersion: 2
+        x: 4861
+        y: 2795
+        width: 324
+        height: 324
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c323dc83483614581acf9670e4ab5d25
+      internalID: -8427834179296688667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gamebuttonsforguifree-3_62
+      rect:
+        serializedVersion: 2
+        x: 5268
+        y: 2795
+        width: 324
+        height: 324
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edae5cece84474dcf96c5bdd35f24592
+      internalID: -3090103917125471397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gamebuttonsforguifree-3_63
+      rect:
+        serializedVersion: 2
+        x: 5674
+        y: 2795
+        width: 324
+        height: 324
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7db6f6f12fdfe49b1a8d621b3d318729
+      internalID: 211394582161547992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gamebuttonsforguifree-3_64
+      rect:
+        serializedVersion: 2
+        x: 6080
+        y: 2795
+        width: 324
+        height: 324
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72dd67260ada141a08498f3793d4df43
+      internalID: 1900461807892400891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gamebuttonsforguifree-3_65
+      rect:
+        serializedVersion: 2
+        x: 6486
+        y: 2795
+        width: 324
+        height: 324
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb7409bc4951c4f3aa75fa47cc22f9e3
+      internalID: 8045430800331608184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gamebuttonsforguifree-3_66
+      rect:
+        serializedVersion: 2
+        x: 6893
+        y: 2795
+        width: 324
+        height: 324
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec2ffda0ea302424288f710135e588f2
+      internalID: 5787709880818201818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gamebuttonsforguifree-3_67
+      rect:
+        serializedVersion: 2
+        x: 7299
+        y: 2795
+        width: 324
+        height: 324
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29dabd02171ed4e62b03c1faeaf041a3
+      internalID: -2845996480827918089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gamebuttonsforguifree-3_68
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 2385
+        width: 324
+        height: 324
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afbc149dd18824907a2b4f9a87ccf786
+      internalID: -7454637719934827206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gamebuttonsforguifree-3_69
+      rect:
+        serializedVersion: 2
+        x: 783
+        y: 2385
+        width: 324
+        height: 324
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10a5ca0840de3422195cf0e162401817
+      internalID: -3818317067483854410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gamebuttonsforguifree-3_70
+      rect:
+        serializedVersion: 2
+        x: 1189
+        y: 2385
+        width: 325
+        height: 324
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c811e0edc21424ec890b5fca4321c464
+      internalID: -5443678477713410653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gamebuttonsforguifree-3_71
+      rect:
+        serializedVersion: 2
+        x: 1596
+        y: 2385
+        width: 324
+        height: 324
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e10cd7f0b01364822a721785e3ab34e7
+      internalID: -3814735411212261006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gamebuttonsforguifree-3_72
+      rect:
+        serializedVersion: 2
+        x: 2002
+        y: 2385
+        width: 324
+        height: 324
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: add0c043092d04ff49aa993ff3f364eb
+      internalID: -3944824590792181807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gamebuttonsforguifree-3_73
+      rect:
+        serializedVersion: 2
+        x: 2408
+        y: 2385
+        width: 324
+        height: 324
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 063c864b90fcb4a6ba24e044ee21c092
+      internalID: 1368052674744601415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gamebuttonsforguifree-3_74
+      rect:
+        serializedVersion: 2
+        x: 2814
+        y: 2385
+        width: 325
+        height: 324
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d190f4038047840d185930195f107621
+      internalID: 6250030440377095869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gamebuttonsforguifree-3_75
+      rect:
+        serializedVersion: 2
+        x: 3221
+        y: 2385
+        width: 324
+        height: 324
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2997e99fae4d74b4988f6928d93a050d
+      internalID: 5097746401395384293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gamebuttonsforguifree-3_76
+      rect:
+        serializedVersion: 2
+        x: 3627
+        y: 2385
+        width: 324
+        height: 324
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91c5d5c6745e040698bcfa1b984cd9ef
+      internalID: 7413572960444998433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gamebuttonsforguifree-3_77
+      rect:
+        serializedVersion: 2
+        x: 4049
+        y: 2385
+        width: 324
+        height: 324
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e486d020d980242a48a62d09e7fcb63a
+      internalID: -1691214216093108709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gamebuttonsforguifree-3_78
+      rect:
+        serializedVersion: 2
+        x: 4455
+        y: 2385
+        width: 324
+        height: 324
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a694ecc349c284038a997af710db7291
+      internalID: -1760367181483981997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gamebuttonsforguifree-3_79
+      rect:
+        serializedVersion: 2
+        x: 4861
+        y: 2385
+        width: 324
+        height: 324
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae0a1508c76f748df96f58b093fd8365
+      internalID: 7173228916048283316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gamebuttonsforguifree-3_80
+      rect:
+        serializedVersion: 2
+        x: 5268
+        y: 2385
+        width: 324
+        height: 324
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5063ddb55db44cebb7093d7f877c0ac
+      internalID: 4388017661603580625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gamebuttonsforguifree-3_81
+      rect:
+        serializedVersion: 2
+        x: 5674
+        y: 2385
+        width: 324
+        height: 324
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4d6bade71d2444cf9c5051e5395c6b9
+      internalID: 2747145734476097421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gamebuttonsforguifree-3_82
+      rect:
+        serializedVersion: 2
+        x: 6080
+        y: 2385
+        width: 324
+        height: 324
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed8987dd40a774aa9bc3e03400876ef2
+      internalID: -2146790627280375088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gamebuttonsforguifree-3_83
+      rect:
+        serializedVersion: 2
+        x: 6486
+        y: 2385
+        width: 324
+        height: 324
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3615e5a49af304c679c1400ce0651bbe
+      internalID: 1117447698102452800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gamebuttonsforguifree-3_84
+      rect:
+        serializedVersion: 2
+        x: 6893
+        y: 2385
+        width: 324
+        height: 324
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5e5d238271ed4791aecb0b1bb190737
+      internalID: -6104324868277450998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gamebuttonsforguifree-3_85
+      rect:
+        serializedVersion: 2
+        x: 7299
+        y: 2385
+        width: 324
+        height: 324
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6aa89a4515ba441cd9b934a7a82101af
+      internalID: 3683438361442758240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gamebuttonsforguifree-3_86
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 1979
+        width: 324
+        height: 323
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e4ec24f94c1744b08e7f006a80f193c
+      internalID: 2644429277710977532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gamebuttonsforguifree-3_87
+      rect:
+        serializedVersion: 2
+        x: 783
+        y: 1979
+        width: 324
+        height: 323
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6614421a8e72c4f1186935edb7de0043
+      internalID: -2275261939422265791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gamebuttonsforguifree-3_88
+      rect:
+        serializedVersion: 2
+        x: 1189
+        y: 1979
+        width: 325
+        height: 323
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52310f16aceb94aa48dc8407b91353aa
+      internalID: 1986986193332832909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gamebuttonsforguifree-3_89
+      rect:
+        serializedVersion: 2
+        x: 1596
+        y: 1979
+        width: 324
+        height: 323
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7926fa324e5b243c79ea14744421cd98
+      internalID: -4981693731917472990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gamebuttonsforguifree-3_90
+      rect:
+        serializedVersion: 2
+        x: 2002
+        y: 1979
+        width: 324
+        height: 323
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba3878e534b5f479d8dc6fb48020efb9
+      internalID: -5068423575936444683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gamebuttonsforguifree-3_91
+      rect:
+        serializedVersion: 2
+        x: 2408
+        y: 1979
+        width: 324
+        height: 323
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e37610f25a714438a8f5f683d4de17b8
+      internalID: 6040698644846080912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gamebuttonsforguifree-3_92
+      rect:
+        serializedVersion: 2
+        x: 2814
+        y: 1979
+        width: 325
+        height: 323
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd1a9cdc3a9224cbdabcd8f41ed503af
+      internalID: 6952769565922346369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gamebuttonsforguifree-3_93
+      rect:
+        serializedVersion: 2
+        x: 3221
+        y: 1979
+        width: 324
+        height: 323
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a8cb4ecaf2fb4b19851c2526b20df07
+      internalID: 4235071103565642912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gamebuttonsforguifree-3_94
+      rect:
+        serializedVersion: 2
+        x: 3627
+        y: 1979
+        width: 324
+        height: 328
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 345de703c155a45369674bcae9a8083e
+      internalID: -2509746956554498402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gamebuttonsforguifree-3_95
+      rect:
+        serializedVersion: 2
+        x: 4049
+        y: 1979
+        width: 324
+        height: 323
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d817765b698f54c4ba9bad422b880db1
+      internalID: 8047301479042901204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gamebuttonsforguifree-3_96
+      rect:
+        serializedVersion: 2
+        x: 4455
+        y: 1979
+        width: 324
+        height: 323
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b194fa480e02e4bdcb9a81249e6dcd9d
+      internalID: 2968204339949736772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gamebuttonsforguifree-3_97
+      rect:
+        serializedVersion: 2
+        x: 4861
+        y: 1979
+        width: 324
+        height: 323
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90189bb521b09445e8af8177c960b4c9
+      internalID: 9121924568743364180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gamebuttonsforguifree-3_98
+      rect:
+        serializedVersion: 2
+        x: 5268
+        y: 1979
+        width: 324
+        height: 323
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73d60724ccb894057aae2e22814383b1
+      internalID: 3438848360471436414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gamebuttonsforguifree-3_99
+      rect:
+        serializedVersion: 2
+        x: 5674
+        y: 1979
+        width: 324
+        height: 323
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6fb692a31349451da0d1636f8615727
+      internalID: -3822368919184882673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gamebuttonsforguifree-3_100
+      rect:
+        serializedVersion: 2
+        x: 6080
+        y: 1979
+        width: 324
+        height: 323
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5f5bd98b11a349f999231b10052bcc1
+      internalID: -4952039297399939655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gamebuttonsforguifree-3_101
+      rect:
+        serializedVersion: 2
+        x: 6486
+        y: 1979
+        width: 324
+        height: 323
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af4354f092c23488bb5d6577b252db02
+      internalID: 6456801317586459831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gamebuttonsforguifree-3_102
+      rect:
+        serializedVersion: 2
+        x: 6893
+        y: 1979
+        width: 324
+        height: 323
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 133bcc0f40c0648efbce566af72496bd
+      internalID: -4077907208372467373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gamebuttonsforguifree-3_103
+      rect:
+        serializedVersion: 2
+        x: 7299
+        y: 1979
+        width: 324
+        height: 328
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43d8d6db33ef0476ca17fc2c3bff3302
+      internalID: 7390044054782087646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gamebuttonsforguifree-3_104
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 1580
+        width: 324
+        height: 324
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7b740e8dfdc54158a7793a869808f42
+      internalID: -4390691576043750810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gamebuttonsforguifree-3_105
+      rect:
+        serializedVersion: 2
+        x: 783
+        y: 1580
+        width: 324
+        height: 324
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8eb10cc28c2934380acab808143a5e10
+      internalID: -2768357183518899859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gamebuttonsforguifree-3_106
+      rect:
+        serializedVersion: 2
+        x: 1189
+        y: 1580
+        width: 325
+        height: 324
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79aca99d79af94458ba128bde9b71b9b
+      internalID: -5743539542569893755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gamebuttonsforguifree-3_107
+      rect:
+        serializedVersion: 2
+        x: 1596
+        y: 1580
+        width: 324
+        height: 324
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70117c6ca837e4a47a12708c8a81a5ab
+      internalID: -3356069151386062826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gamebuttonsforguifree-3_108
+      rect:
+        serializedVersion: 2
+        x: 2002
+        y: 1580
+        width: 324
+        height: 324
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46eec468af45a4237abaef394b867cde
+      internalID: -7441953619654142741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gamebuttonsforguifree-3_109
+      rect:
+        serializedVersion: 2
+        x: 2408
+        y: 1580
+        width: 324
+        height: 324
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b093971446aa847c8aced73f3386925a
+      internalID: -1034972460255433380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gamebuttonsforguifree-3_110
+      rect:
+        serializedVersion: 2
+        x: 2814
+        y: 1580
+        width: 325
+        height: 324
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da0a62dbd8b324e89bdc3416c9bd3c91
+      internalID: -6467205773683275723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gamebuttonsforguifree-3_111
+      rect:
+        serializedVersion: 2
+        x: 3221
+        y: 1580
+        width: 324
+        height: 324
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d19ec15ae8ff547a392bc360505cd98b
+      internalID: -755561728094530979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gamebuttonsforguifree-3_112
+      rect:
+        serializedVersion: 2
+        x: 3627
+        y: 1580
+        width: 324
+        height: 324
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e605edc5749ce456f85782ad37dc480e
+      internalID: -2293314485435566524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gamebuttonsforguifree-3_113
+      rect:
+        serializedVersion: 2
+        x: 4049
+        y: 1580
+        width: 324
+        height: 324
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78c778b73b4404ed596beebd296770f6
+      internalID: 5305175424486255979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gamebuttonsforguifree-3_114
+      rect:
+        serializedVersion: 2
+        x: 4455
+        y: 1580
+        width: 324
+        height: 324
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b1ac4e3d7d4f4d3aa2f4de60b924a7f
+      internalID: -2624457703783470666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gamebuttonsforguifree-3_115
+      rect:
+        serializedVersion: 2
+        x: 4861
+        y: 1580
+        width: 324
+        height: 324
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbb0a83a50d2c4670a0757d7e0000f2f
+      internalID: 4913094647007819923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gamebuttonsforguifree-3_116
+      rect:
+        serializedVersion: 2
+        x: 5268
+        y: 1580
+        width: 324
+        height: 324
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f76954ed00224af18d9fa268aeb7e1f
+      internalID: 7462641590696579519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gamebuttonsforguifree-3_117
+      rect:
+        serializedVersion: 2
+        x: 5674
+        y: 1580
+        width: 324
+        height: 324
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64e7af947037b4034b57c1694bfb7c52
+      internalID: -4243650416734552826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gamebuttonsforguifree-3_118
+      rect:
+        serializedVersion: 2
+        x: 6080
+        y: 1580
+        width: 324
+        height: 324
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7a87c896247f408d8db02760cba2057
+      internalID: -1074192720650017448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gamebuttonsforguifree-3_119
+      rect:
+        serializedVersion: 2
+        x: 6486
+        y: 1580
+        width: 324
+        height: 324
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6936dc3ecf7e84265a3908b4bbf94f93
+      internalID: -1588992167512019586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gamebuttonsforguifree-3_120
+      rect:
+        serializedVersion: 2
+        x: 6893
+        y: 1580
+        width: 324
+        height: 324
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3d56509ba7bb42459d3abdb127d8e89
+      internalID: 2173745028059042997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gamebuttonsforguifree-3_121
+      rect:
+        serializedVersion: 2
+        x: 7299
+        y: 1580
+        width: 324
+        height: 324
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea3660c9d3cb9413d807eb4e471f5c06
+      internalID: -3797669309236561339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gamebuttonsforguifree-3_122
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 1178
+        width: 324
+        height: 324
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 916b8e091fdfa44829bc1d5bb361cc5f
+      internalID: 6779553615804751533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gamebuttonsforguifree-3_123
+      rect:
+        serializedVersion: 2
+        x: 783
+        y: 1178
+        width: 324
+        height: 324
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65b808c2f50054476af4b0e6ba767a18
+      internalID: -8815323974975429675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gamebuttonsforguifree-3_124
+      rect:
+        serializedVersion: 2
+        x: 1189
+        y: 1178
+        width: 325
+        height: 324
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba7b1dffbdc544737bfd1c8939417d31
+      internalID: -448003676716274184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gamebuttonsforguifree-3_125
+      rect:
+        serializedVersion: 2
+        x: 1596
+        y: 1178
+        width: 324
+        height: 324
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84dbf0cc425f844a3bf120156c75e282
+      internalID: -9077572284202239027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gamebuttonsforguifree-3_126
+      rect:
+        serializedVersion: 2
+        x: 2002
+        y: 1178
+        width: 324
+        height: 324
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8950c0f23b8d467aa83812222dbdbf2
+      internalID: 4467559263674843852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gamebuttonsforguifree-3_127
+      rect:
+        serializedVersion: 2
+        x: 2408
+        y: 1178
+        width: 324
+        height: 324
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8cf429dfd5a841cebfb0e1bbe0ce7ea
+      internalID: 3039784869725678610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gamebuttonsforguifree-3_128
+      rect:
+        serializedVersion: 2
+        x: 2814
+        y: 1178
+        width: 325
+        height: 324
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87c31afd3f8264de5a2612d9f4cfd783
+      internalID: -3718590917095734107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gamebuttonsforguifree-3_129
+      rect:
+        serializedVersion: 2
+        x: 3221
+        y: 1178
+        width: 324
+        height: 324
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0afa4b326d8664c65921f4d915fc0c19
+      internalID: 8314423639121086919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gamebuttonsforguifree-3_130
+      rect:
+        serializedVersion: 2
+        x: 3627
+        y: 1178
+        width: 324
+        height: 324
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6dc5f15bcea714a6eaa3bf184ce3e693
+      internalID: -1092679583555181869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gamebuttonsforguifree-3_131
+      rect:
+        serializedVersion: 2
+        x: 4049
+        y: 1178
+        width: 324
+        height: 324
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61e5ce5b1343041128a7d027e5b00a96
+      internalID: 8720917950150187447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gamebuttonsforguifree-3_132
+      rect:
+        serializedVersion: 2
+        x: 4455
+        y: 1178
+        width: 324
+        height: 324
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b857661bcbf5499282d983f6d3f6dc9
+      internalID: -5825457827374947821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gamebuttonsforguifree-3_133
+      rect:
+        serializedVersion: 2
+        x: 4861
+        y: 1178
+        width: 324
+        height: 324
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 457fd38c40a78477c81373d843c2ae31
+      internalID: -893343549002551697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gamebuttonsforguifree-3_134
+      rect:
+        serializedVersion: 2
+        x: 5268
+        y: 1178
+        width: 324
+        height: 324
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c63f2ede50d3a463fa113155c329d6b4
+      internalID: -3378619521725733842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gamebuttonsforguifree-3_135
+      rect:
+        serializedVersion: 2
+        x: 5674
+        y: 1178
+        width: 324
+        height: 324
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c82f36feee3d542eb9cef97be5dce11e
+      internalID: 7151762514037327998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gamebuttonsforguifree-3_136
+      rect:
+        serializedVersion: 2
+        x: 6080
+        y: 1178
+        width: 324
+        height: 324
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4dc4304a08964ba3a7b3228766f86a3
+      internalID: -1975137388638717374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gamebuttonsforguifree-3_137
+      rect:
+        serializedVersion: 2
+        x: 6486
+        y: 1178
+        width: 324
+        height: 324
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f04477a4c5ee649caa2dab20489c32b2
+      internalID: 4587095441420552705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gamebuttonsforguifree-3_138
+      rect:
+        serializedVersion: 2
+        x: 6893
+        y: 1178
+        width: 324
+        height: 324
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 832ca0dfc0c9147f19583621dc340f3d
+      internalID: -8716747834075865103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gamebuttonsforguifree-3_139
+      rect:
+        serializedVersion: 2
+        x: 7299
+        y: 1178
+        width: 324
+        height: 324
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdb219fc8b98e482a92f49bf573bbce8
+      internalID: 820760280237891805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gamebuttonsforguifree-3_140
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 768
+        width: 324
+        height: 324
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 981393d89321b478daf7d38b982789fa
+      internalID: -1504947937920269875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gamebuttonsforguifree-3_141
+      rect:
+        serializedVersion: 2
+        x: 783
+        y: 768
+        width: 324
+        height: 324
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d807685ff057f4877a873e746b4fb045
+      internalID: -1723649093491274408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gamebuttonsforguifree-3_142
+      rect:
+        serializedVersion: 2
+        x: 1189
+        y: 768
+        width: 325
+        height: 324
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1529f611a691d4e309dda2bd3a227716
+      internalID: -6748438509421857159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gamebuttonsforguifree-3_143
+      rect:
+        serializedVersion: 2
+        x: 1596
+        y: 768
+        width: 324
+        height: 324
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8d0eb95965c64824aa62bb432a9d9e7
+      internalID: 3894968481043854056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gamebuttonsforguifree-3_144
+      rect:
+        serializedVersion: 2
+        x: 2002
+        y: 768
+        width: 324
+        height: 324
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1901a02ded7904e2badf960c547ebe6b
+      internalID: -6944427781802755672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gamebuttonsforguifree-3_145
+      rect:
+        serializedVersion: 2
+        x: 2408
+        y: 768
+        width: 324
+        height: 324
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48a7114c3be6f40558f2b84850d47fcd
+      internalID: -3350259634937354418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gamebuttonsforguifree-3_146
+      rect:
+        serializedVersion: 2
+        x: 2814
+        y: 768
+        width: 325
+        height: 324
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 140a5b3b5f4ff438797277041f4c6a8e
+      internalID: -5181418462634429160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gamebuttonsforguifree-3_147
+      rect:
+        serializedVersion: 2
+        x: 3221
+        y: 768
+        width: 324
+        height: 324
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82816887719d248bf948d1048a254c82
+      internalID: 2875919326105660432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gamebuttonsforguifree-3_148
+      rect:
+        serializedVersion: 2
+        x: 3627
+        y: 768
+        width: 324
+        height: 324
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e968651364e9c420bad9c24fb4aba072
+      internalID: -3904438977601661991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gamebuttonsforguifree-3_149
+      rect:
+        serializedVersion: 2
+        x: 4049
+        y: 768
+        width: 324
+        height: 324
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d10c053d3c4248ab940847a750ce583
+      internalID: 5200467029689200666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gamebuttonsforguifree-3_150
+      rect:
+        serializedVersion: 2
+        x: 4455
+        y: 768
+        width: 324
+        height: 324
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d8013dd4b37b4774ab3137827adf38f
+      internalID: -2384918177069112233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gamebuttonsforguifree-3_151
+      rect:
+        serializedVersion: 2
+        x: 4861
+        y: 768
+        width: 324
+        height: 324
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 032c72d04bcce4b71860b712e15aeb3d
+      internalID: -218774757100821765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gamebuttonsforguifree-3_152
+      rect:
+        serializedVersion: 2
+        x: 5268
+        y: 768
+        width: 324
+        height: 324
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fa1b9f86a2084eab8a321f023ec7431
+      internalID: 2493013134484741701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gamebuttonsforguifree-3_153
+      rect:
+        serializedVersion: 2
+        x: 5674
+        y: 768
+        width: 324
+        height: 324
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d35a6d6bae3b47dcbbd03b5e95de5f4
+      internalID: -2443820333442525441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gamebuttonsforguifree-3_154
+      rect:
+        serializedVersion: 2
+        x: 6080
+        y: 768
+        width: 324
+        height: 324
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a62f1860787545c190619b8f9ca06bc
+      internalID: 8863559730794108276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gamebuttonsforguifree-3_155
+      rect:
+        serializedVersion: 2
+        x: 6486
+        y: 768
+        width: 324
+        height: 324
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3819274b3425e407baf9b85895552ac8
+      internalID: -5906009300003587565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gamebuttonsforguifree-3_156
+      rect:
+        serializedVersion: 2
+        x: 6893
+        y: 768
+        width: 324
+        height: 324
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb92f5d36ed7748f0b6abf2472fb1741
+      internalID: -8000180872546623543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gamebuttonsforguifree-3_157
+      rect:
+        serializedVersion: 2
+        x: 7299
+        y: 768
+        width: 324
+        height: 324
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2222b17af8a947d3b040e98598d4c1d
+      internalID: -1428001913882031196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gamebuttonsforguifree-3_158
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 361
+        width: 324
+        height: 324
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0a35d5b296844910bf3a3f7f28098c3
+      internalID: 6547833264538816072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gamebuttonsforguifree-3_159
+      rect:
+        serializedVersion: 2
+        x: 783
+        y: 361
+        width: 324
+        height: 324
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 947eb1c87ed8f4c37b09521b5104e291
+      internalID: 453790809432205073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gamebuttonsforguifree-3_160
+      rect:
+        serializedVersion: 2
+        x: 1189
+        y: 361
+        width: 325
+        height: 324
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52f1f737495754c68a111d3ae4d13522
+      internalID: 879030509173096339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gamebuttonsforguifree-3_161
+      rect:
+        serializedVersion: 2
+        x: 1596
+        y: 361
+        width: 324
+        height: 324
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64ed084debe2745d9b6e13e14608a002
+      internalID: 5444734216919870821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gamebuttonsforguifree-3_162
+      rect:
+        serializedVersion: 2
+        x: 2002
+        y: 361
+        width: 324
+        height: 324
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e57aa171c77048d3a7bfcf6d2d8ee4c
+      internalID: -4023183888299951221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gamebuttonsforguifree-3_163
+      rect:
+        serializedVersion: 2
+        x: 2408
+        y: 361
+        width: 324
+        height: 324
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbb0830c54f624eaba98b82b345d751c
+      internalID: -4976819395293867096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gamebuttonsforguifree-3_164
+      rect:
+        serializedVersion: 2
+        x: 2814
+        y: 361
+        width: 325
+        height: 324
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6d3176b1951f486b8dc38e59eae158b
+      internalID: 1890001845405173201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gamebuttonsforguifree-3_165
+      rect:
+        serializedVersion: 2
+        x: 3221
+        y: 361
+        width: 324
+        height: 324
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b095f046aa0842eeb9e6a79f6289ef0
+      internalID: 6608321420078999055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gamebuttonsforguifree-3_166
+      rect:
+        serializedVersion: 2
+        x: 3627
+        y: 361
+        width: 324
+        height: 328
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d6a97d81545b41fc8beea151ee62eae
+      internalID: -6671721511375026828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gamebuttonsforguifree-3_167
+      rect:
+        serializedVersion: 2
+        x: 4049
+        y: 361
+        width: 324
+        height: 324
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15f8343a116ad46e9a9142440611c6d7
+      internalID: 4775038082128848277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gamebuttonsforguifree-3_168
+      rect:
+        serializedVersion: 2
+        x: 4455
+        y: 361
+        width: 324
+        height: 324
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adc2a1403b0814b72b670b65299d49de
+      internalID: 8970710537044475936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gamebuttonsforguifree-3_169
+      rect:
+        serializedVersion: 2
+        x: 4861
+        y: 361
+        width: 324
+        height: 324
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02350604dfd9745d8aa14a3b52fcb911
+      internalID: -1383958434760959599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gamebuttonsforguifree-3_170
+      rect:
+        serializedVersion: 2
+        x: 5268
+        y: 361
+        width: 324
+        height: 324
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 870e70f5cbc4a4cd4a7accbfa1b3006c
+      internalID: 2366465724532761776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gamebuttonsforguifree-3_171
+      rect:
+        serializedVersion: 2
+        x: 5674
+        y: 361
+        width: 324
+        height: 324
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22a4cf326b89a4c9a9214a5d87e4d4e5
+      internalID: -8407924071102515146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gamebuttonsforguifree-3_172
+      rect:
+        serializedVersion: 2
+        x: 6080
+        y: 361
+        width: 324
+        height: 324
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 918ff582f56594115ac7ed3ed01ea695
+      internalID: -945445916172845315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gamebuttonsforguifree-3_173
+      rect:
+        serializedVersion: 2
+        x: 6486
+        y: 361
+        width: 324
+        height: 324
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aeac76f1d9b6e4c58a11f9131cd0ad24
+      internalID: -7449358801991706541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gamebuttonsforguifree-3_174
+      rect:
+        serializedVersion: 2
+        x: 6893
+        y: 361
+        width: 324
+        height: 324
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07d65ed6ad37142f9919591577b91f29
+      internalID: 1014503963446300262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gamebuttonsforguifree-3_175
+      rect:
+        serializedVersion: 2
+        x: 7299
+        y: 361
+        width: 324
+        height: 328
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b88bd2bde8175436b8bda5bab1e1a730
+      internalID: -2985224338249092478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
