@@ -72,7 +72,7 @@ SpriteRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
-  m_Sprite: {fileID: -4077907208372467373, guid: cba6bd44938694f278f880d340579653,
+  m_Sprite: {fileID: 4235071103565642912, guid: cba6bd44938694f278f880d340579653,
     type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -108,7 +108,7 @@ BoxCollider2D:
     adaptiveTiling: 0
   m_AutoTiling: 0
   serializedVersion: 2
-  m_Size: {x: 0.64, y: 0.64}
+  m_Size: {x: 3.2403762, y: 3.23}
   m_EdgeRadius: 0
 --- !u!50 &50116230270546976
 Rigidbody2D:
@@ -215,7 +215,7 @@ SpriteRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
-  m_Sprite: {fileID: -4077907208372467373, guid: cba6bd44938694f278f880d340579653,
+  m_Sprite: {fileID: 4235071103565642912, guid: cba6bd44938694f278f880d340579653,
     type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -251,7 +251,7 @@ BoxCollider2D:
     adaptiveTiling: 0
   m_AutoTiling: 0
   serializedVersion: 2
-  m_Size: {x: 0.64, y: 0.64}
+  m_Size: {x: 3.2403762, y: 3.23}
   m_EdgeRadius: 0
 --- !u!50 &50180622100931766
 Rigidbody2D:
@@ -428,9 +428,9 @@ SpriteRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
-  m_Sprite: {fileID: -2293314485435566524, guid: cba6bd44938694f278f880d340579653,
+  m_Sprite: {fileID: 7724526364760202255, guid: cba6bd44938694f278f880d340579653,
     type: 3}
-  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_Color: {r: 1, g: 0.99215686, b: 0, a: 1}
   m_FlipX: 0
   m_FlipY: 0
   m_DrawMode: 0
@@ -464,7 +464,7 @@ BoxCollider2D:
     adaptiveTiling: 0
   m_AutoTiling: 0
   serializedVersion: 2
-  m_Size: {x: 0.64, y: 0.64}
+  m_Size: {x: 3.2403762, y: 3.24}
   m_EdgeRadius: 0
 --- !u!50 &50744291512148172
 Rigidbody2D:
@@ -571,9 +571,9 @@ SpriteRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
-  m_Sprite: {fileID: 6779553615804751533, guid: cba6bd44938694f278f880d340579653,
+  m_Sprite: {fileID: 7822439506201863840, guid: cba6bd44938694f278f880d340579653,
     type: 3}
-  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_Color: {r: 1, g: 0.99215686, b: 0, a: 1}
   m_FlipX: 0
   m_FlipY: 0
   m_DrawMode: 0
@@ -607,7 +607,7 @@ BoxCollider2D:
     adaptiveTiling: 0
   m_AutoTiling: 0
   serializedVersion: 2
-  m_Size: {x: 0.64, y: 0.64}
+  m_Size: {x: 3.2403762, y: 3.24}
   m_EdgeRadius: 0
 --- !u!50 &50545003713246008
 Rigidbody2D:

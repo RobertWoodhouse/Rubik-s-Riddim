@@ -72,7 +72,7 @@ SpriteRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
-  m_Sprite: {fileID: 1014503963446300262, guid: cba6bd44938694f278f880d340579653,
+  m_Sprite: {fileID: 6608321420078999055, guid: cba6bd44938694f278f880d340579653,
     type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -108,7 +108,7 @@ BoxCollider2D:
     adaptiveTiling: 0
   m_AutoTiling: 0
   serializedVersion: 2
-  m_Size: {x: 0.64, y: 0.64}
+  m_Size: {x: 3.2403762, y: 3.24}
   m_EdgeRadius: 0
 --- !u!50 &50232675266390754
 Rigidbody2D:
@@ -215,7 +215,7 @@ SpriteRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
-  m_Sprite: {fileID: 1014503963446300262, guid: cba6bd44938694f278f880d340579653,
+  m_Sprite: {fileID: 6608321420078999055, guid: cba6bd44938694f278f880d340579653,
     type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -251,7 +251,7 @@ BoxCollider2D:
     adaptiveTiling: 0
   m_AutoTiling: 0
   serializedVersion: 2
-  m_Size: {x: 0.64, y: 0.64}
+  m_Size: {x: 3.2403762, y: 3.24}
   m_EdgeRadius: 0
 --- !u!50 &50890465870002394
 Rigidbody2D:
@@ -358,7 +358,7 @@ SpriteRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
-  m_Sprite: {fileID: 4587095441420552705, guid: cba6bd44938694f278f880d340579653,
+  m_Sprite: {fileID: -2768357183518899859, guid: cba6bd44938694f278f880d340579653,
     type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -394,7 +394,7 @@ BoxCollider2D:
     adaptiveTiling: 0
   m_AutoTiling: 0
   serializedVersion: 2
-  m_Size: {x: 0.64, y: 0.64}
+  m_Size: {x: 3.2403762, y: 3.24}
   m_EdgeRadius: 0
 --- !u!50 &50796646579034786
 Rigidbody2D:
@@ -573,7 +573,7 @@ SpriteRenderer:
   m_SortingOrder: 0
   m_Sprite: {fileID: -1504947937920269875, guid: cba6bd44938694f278f880d340579653,
     type: 3}
-  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_Color: {r: 1, g: 0.99003696, b: 0, a: 1}
   m_FlipX: 0
   m_FlipY: 0
   m_DrawMode: 0
@@ -607,7 +607,7 @@ BoxCollider2D:
     adaptiveTiling: 0
   m_AutoTiling: 0
   serializedVersion: 2
-  m_Size: {x: 0.64, y: 0.64}
+  m_Size: {x: 3.2403762, y: 3.24}
   m_EdgeRadius: 0
 --- !u!50 &50524120776977018
 Rigidbody2D:
