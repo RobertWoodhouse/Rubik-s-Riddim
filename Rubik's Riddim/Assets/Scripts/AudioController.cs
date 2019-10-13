@@ -47,6 +47,9 @@ public class AudioController : MonoBehaviour
 
         if (!channel[4]) audioSources[4].mute = true;
         else audioSources[4].mute = false;
+
+		if (!channel[5]) audioSources[5].mute = true;
+        else audioSources[5].mute = false;
     }
     
 	private void IntrumentsSwitch(int min, int max) // TODO: change from >= to == if switch not functioning
@@ -62,6 +65,8 @@ public class AudioController : MonoBehaviour
 		if (min >= 3) _channels[2] = true;
 		if (min >= 4) _channels[3] = true;
 		if (min >= 5) _channels[4] = true;
+		if (min >= 6) _channels[5] = true;
+
 	}
 
 	public void PlayAudioTracks(AudioClip[] clip, AudioSource source)

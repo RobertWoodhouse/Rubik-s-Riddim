@@ -12,6 +12,7 @@ TagManager:
   - Pipe
   - Rubiks
   - Piece
+  - Background
   layers:
   - Default
   - TransparentFX
